@@ -1,0 +1,23 @@
+# Percentage of total deaths for the 10 leading causes of Postneonatal deaths (between 1 and 11 months after birth): United States, 2019
+
+Cause of Postneonatal deaths                              | % total deaths
+--------------------------------------------------------------------------
+Congenital malformations, chromosomal abnormalities       |      17.6
+Accidents (unintentional injuries)                        |      15.8
+Sudden infant death syndrome                              |      15.6
+Diseases of the circulatory system                        |       4.6
+Assault (homicide)                                        |       3.5
+Diarrhea and gastroenteritis of infectious origin         |       2.5
+Influenza and pneumonia                                   |       2.2
+Chronic respiratory disease (from perinatal period)       |       2.1
+Septicemia                                                |       1.8
+Disorders related to short gestation and low birth weight |       1.0
+Other causes                                              |      33.3
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Deaths: Final Data for 2019"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+Page : 15
+Table : F
+https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-08-508.pdf
