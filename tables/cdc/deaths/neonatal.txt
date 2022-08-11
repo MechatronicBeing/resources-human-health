@@ -1,4 +1,4 @@
-# Percentage of total deaths for the 10 leading causes of neonatal deaths (less than 1 month after birth): United States, 2019
+Percentage of total deaths for the 10 leading causes of neonatal deaths (less than 1 month after birth): United States, 2019
 
 Cause of Neonatal deaths                                  | % total deaths
 --------------------------------------------------------------------------
@@ -20,4 +20,4 @@ Title : "Deaths: Final Data for 2019"
 License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
 Page : 15
 Table : F
-https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-08-508.pdf
+File : https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-08-508.pdf
