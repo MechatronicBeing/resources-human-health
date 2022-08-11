@@ -1,6 +1,6 @@
-Percentage of total deaths for the 10 leading causes of Postneonatal deaths (between 1 and 11 months after birth): United States, 2019
+Percentage of total postneonatal deaths (between 28 days and 1 year after birth), for the 10 leading causes of deaths, in the United States, 2019
 
-Cause of Postneonatal deaths                              | % total deaths
+Cause of postneonatal deaths                              | % total deaths
 --------------------------------------------------------------------------
 Congenital malformations, chromosomal abnormalities       |      17.6
 Accidents (unintentional injuries)                        |      15.8
