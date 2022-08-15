@@ -1,4 +1,4 @@
-Table : Percentage of emergency department visits with corresponding standard errors, by diagnostic services ordered or provided: United States, 2007	
+Table : Percentage of diagnostic services ordered or provided in emergency department visits, in United States, 2007	
 
 One or more diagnostic or screening service listed          | 66.4
 None                                                        | 30.9

@@ -278,6 +278,6 @@ Metabolic agents . . . . . . . . . . . . . . . . . . . . |   8.8
 Medical gases. . . . . . . . . . . . . . . . . . . . . . |   0.1
 Pharmaceutical aids. . . . . . . . . . . . . . . . . . . |   0.3
 
-Author :         
-Table 11. Therapeutic categories for drugs provided, prescribed, or continued at ambulatory care visits, with percent distribution by setting type: United States, 2007
+Author : CDC
+Table : 11
 File : https://www.cdc.gov/nchs/data/series/sr_13/sr13_169.pdf  

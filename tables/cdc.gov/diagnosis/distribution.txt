@@ -1,4 +1,4 @@
-Table : Percent distribution of ambulatory care visits, by setting type according to diagnosis group, in United States, 2006–2007
+Table : Percent distribution of setting type according to diagnosis group, in ambulatory care visits, in United States, 2006–2007
 
 Diagnosis group                                                        | Percent
 All  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 100.0
@@ -193,7 +193,7 @@ Supplementary classification of factors influencing health status. . . |  18.3
    Other factors influencing health status or health services contact. |   4.5
 Blank and illegible. . . . . . . . . . . . . . . . . . . . . . . . . . |   2.2
 
-Author : 
+Author : CDC
 Page : 22+
 Table : 7
 File : https://www.cdc.gov/nchs/data/series/sr_13/sr13_169.pdf  

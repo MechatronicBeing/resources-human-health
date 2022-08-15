@@ -1,6 +1,7 @@
-In primary !!!
+Table : Percent distribution of setting type according to diagnosis group, by primary care offices, in United States, 2006–2007
 
 Diagnosis group                                                        | Percent
+--------------------------------------------------------------------------------
 All  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 47.4
 Infectious and parasitic diseases. . . . . . . . . . . . . . . . . . . | 61.2
    Streptococcal sore throat . . . . . . . . . . . . . . . . . . . . . | 81.5
@@ -11,15 +12,15 @@ Infectious and parasitic diseases. . . . . . . . . . . . . . . . . . . | 61.2
    Candidiasis . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 68.5
    Other infectious and parasitic diseases . . . . . . . . . . . . . . | 53.7
 Neoplasms. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 14.7
-   Malignant neoplasms of colon and rectum . . . . . . . . . . . . . . | -
-   Malignant neoplasm of skin. . . . . . . . . . . . . . . . . . . . . | -
-   Malignant neoplasm of breast. . . . . . . . . . . . . . . . . . . . | -9.0
-   Malignant neoplasm of prostate. . . . . . . . . . . . . . . . . . . | -
-   Malignant neoplasm of lymphatic and hematopoietic tissue. . . . . . | -
+   Malignant neoplasms of colon and rectum . . . . . . . . . . . . . . | 
+   Malignant neoplasm of skin. . . . . . . . . . . . . . . . . . . . . | 
+   Malignant neoplasm of breast. . . . . . . . . . . . . . . . . . . . | 9.0
+   Malignant neoplasm of prostate. . . . . . . . . . . . . . . . . . . | 
+   Malignant neoplasm of lymphatic and hematopoietic tissue. . . . . . | 
    Other malignant neoplasms . . . . . . . . . . . . . . . . . . . . . | 10.7
    Benign neoplasm of skin . . . . . . . . . . . . . . . . . . . . . . | 20.4
    Other benign neoplasm . . . . . . . . . . . . . . . . . . . . . . . | 44.1
-   Neoplasm of uncertain behavior and unspecified nature . . . . . . . | -
+   Neoplasm of uncertain behavior and unspecified nature . . . . . . . | 
 Endocrine, nutritional and metabolic diseases, immunity disorders. . . | 64.4
    Acquired hypothyroidism . . . . . . . . . . . . . . . . . . . . . . | 80.6
    Other disorders of thyroid gland. . . . . . . . . . . . . . . . . . | 50.3
@@ -31,12 +32,12 @@ Diseases of the blood and blood-forming organs . . . . . . . . . . . . | 41.4
    Anemias . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 41.8
    Other diseases of the blood and blood-forming organs. . . . . . . . | 40.2
 Mental disorders . . . . . . . . . . . . . . . . . . . . . . . . . . . | 30.8
-   Schizophrenic disorders . . . . . . . . . . . . . . . . . . . . . . | -
-   Major depressive disorder . . . . . . . . . . . . . . . . . . . . . | -
+   Schizophrenic disorders . . . . . . . . . . . . . . . . . . . . . . | 
+   Major depressive disorder . . . . . . . . . . . . . . . . . . . . . | 
    Other psychoses . . . . . . . . . . . . . . . . . . . . . . . . . . | 14.7
    Anxiety states. . . . . . . . . . . . . . . . . . . . . . . . . . . | 44.4
    Neurotic depression . . . . . . . . . . . . . . . . . . . . . . . . | 47.8
-   Alcohol dependence syndrome . . . . . . . . . . . . . . . . . . . . | -
+   Alcohol dependence syndrome . . . . . . . . . . . . . . . . . . . . | 
    Drug dependence and nondependent abuse of drugs . . . . . . . . . . | 17.9
    Acute reaction to stress and adjustment reaction. . . . . . . . . . | 20.4
    Depressive disorder, not elsewhere classified . . . . . . . . . . . | 54.9
@@ -47,20 +48,20 @@ Diseases of the nervous system and sense organs. . . . . . . . . . . . | 28.7
    Other disorders of the central nervous system . . . . . . . . . . . | 28.2
    Carpal tunnel syndrome. . . . . . . . . . . . . . . . . . . . . . . | 27.3
    Other disorders of the peripheral nervous system. . . . . . . . . . | 30.9
-   Retinal detachment and other retinal disorders. . . . . . . . . . . | -
-   Glaucoma. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | -
-   Cataract. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | -
-   Disorders of refraction and accommodation . . . . . . . . . . . . . | -
+   Retinal detachment and other retinal disorders. . . . . . . . . . . | 
+   Glaucoma. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 
+   Cataract. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 
+   Disorders of refraction and accommodation . . . . . . . . . . . . . | 
    Conjunctivitis. . . . . . . . . . . . . . . . . . . . . . . . . . . | 60.4
-   Disorder of eyelids . . . . . . . . . . . . . . . . . . . . . . . . | -
+   Disorder of eyelids . . . . . . . . . . . . . . . . . . . . . . . . | 
    Other disorders of the eye and adnexa . . . . . . . . . . . . . . . | 7.3
    Disorders of external ear . . . . . . . . . . . . . . . . . . . . . | 50.8
    Otitis media and eustachian tube disorders. . . . . . . . . . . . . | 66.7
    Other disorders of the ear and mastoid process. . . . . . . . . . . | 38.6
 Diseases of the circulatory system . . . . . . . . . . . . . . . . . . | 53.5
-   Angina pectoris . . . . . . . . . . . . . . . . . . . . . . . . . . | -
+   Angina pectoris . . . . . . . . . . . . . . . . . . . . . . . . . . | 
    Coronary atherosclerosis. . . . . . . . . . . . . . . . . . . . . . | 27.9
-   Other ischemic heart disease. . . . . . . . . . . . . . . . . . . . | -
+   Other ischemic heart disease. . . . . . . . . . . . . . . . . . . . | 
    Cardiac dysrhythmias. . . . . . . . . . . . . . . . . . . . . . . . | 35.8
    Congestive heart failure. . . . . . . . . . . . . . . . . . . . . . | 41.6
    Other heart disease . . . . . . . . . . . . . . . . . . . . . . . . | 28.7
@@ -85,19 +86,19 @@ Diseases of the respiratory system . . . . . . . . . . . . . . . . . . | 65.1
 Diseases of the digestive system . . . . . . . . . . . . . . . . . . . | 41.1
    Diseases of the teeth and supporting structures . . . . . . . . . . | 32.1
    Gastritis and duodenitis. . . . . . . . . . . . . . . . . . . . . . | 49.7
-   Esophagitis . . . . . . . . . . . . . . . . . . . . . . . . . . . . | -
-   Ulcer of stomach and small intestine. . . . . . . . . . . . . . . . | -
+   Esophagitis . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 
+   Ulcer of stomach and small intestine. . . . . . . . . . . . . . . . | 
    Hernia of abdominal cavity. . . . . . . . . . . . . . . . . . . . . | 23.4
    Noninfectious enteritis and colitis . . . . . . . . . . . . . . . . | 49.3
    Diverticula of intestine. . . . . . . . . . . . . . . . . . . . . . | 36.9
    Constipation. . . . . . . . . . . . . . . . . . . . . . . . . . . . | 48.9
-   Irritable bowel syndrome. . . . . . . . . . . . . . . . . . . . . . | -
+   Irritable bowel syndrome. . . . . . . . . . . . . . . . . . . . . . | 
    Anal and rectal diseases. . . . . . . . . . . . . . . . . . . . . . | 34.4
-   Disorder of gallbladder and biliary tract . . . . . . . . . . . . . | -
-   Gastrointestinal hemorrhage . . . . . . . . . . . . . . . . . . . . | -
+   Disorder of gallbladder and biliary tract . . . . . . . . . . . . . | 
+   Gastrointestinal hemorrhage . . . . . . . . . . . . . . . . . . . . | 
    Other diseases of the digestive system. . . . . . . . . . . . . . . | 48.1
 Diseases of the genitourinary system . . . . . . . . . . . . . . . . . | 52.2
-   Calculus of kidney and ureter . . . . . . . . . . . . . . . . . . . | -
+   Calculus of kidney and ureter . . . . . . . . . . . . . . . . . . . | 
    Cystitis and other disorders of the bladder . . . . . . . . . . . . | 39.0
    Urinary tract infection, site not specified . . . . . . . . . . . . | 54.9
    Other diseases of the urinary system. . . . . . . . . . . . . . . . | 22.5
@@ -114,10 +115,10 @@ Diseases of the skin and subcutaneous tissue . . . . . . . . . . . . . | 36.7
    Cellulitis and abscess. . . . . . . . . . . . . . . . . . . . . . . | 47.5
    Other infection of the skin and subcutaneous tissue . . . . . . . . | 57.9
    Contact dermatitis and other eczema . . . . . . . . . . . . . . . . | 51.4
-   Psoriasis and similar disorders . . . . . . . . . . . . . . . . . . | -
+   Psoriasis and similar disorders . . . . . . . . . . . . . . . . . . | 
    Other inflammatory conditions of skin and subcutaneous tissue . . . | 39.0
    Corns, callosities, other hypertrophic, atrophic skin conditions. . | 28.8
-   Actinic and seborrheic keratosis. . . . . . . . . . . . . . . . . . | -
+   Actinic and seborrheic keratosis. . . . . . . . . . . . . . . . . . | 
    Acne. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 19.0
    Sebaceous cyst. . . . . . . . . . . . . . . . . . . . . . . . . . . | 38.3
    Urticaria . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 37.5
@@ -145,7 +146,7 @@ Symptoms, signs, and ill-defined conditions. . . . . . . . . . . . . . | 45.6
    Pyrexia of unknown origin . . . . . . . . . . . . . . . . . . . . . | 41.8
    Symptoms involving skin and other integumentary tissue. . . . . . . | 56.6
    Headache. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 41.8
-   Epistaxis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | -
+   Epistaxis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 
    Abnormal heart sounds . . . . . . . . . . . . . . . . . . . . . . . | 28.3
    Dyspnea and respiratory abnormalities . . . . . . . . . . . . . . . | 33.5
    Cough . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 67.1
@@ -154,27 +155,27 @@ Symptoms, signs, and ill-defined conditions. . . . . . . . . . . . . . | 45.6
    Abdominal pain. . . . . . . . . . . . . . . . . . . . . . . . . . . | 39.8
    Other symptoms, signs and ill-defined conditions. . . . . . . . . . | 53.5
 Injury and poisoning . . . . . . . . . . . . . . . . . . . . . . . . . | 27.2
-   Fracture of radius and ulna . . . . . . . . . . . . . . . . . . . . | -
-   Fracture of hand and fingers. . . . . . . . . . . . . . . . . . . . | -
-   Fracture of lower limb. . . . . . . . . . . . . . . . . . . . . . . | -
-   Other fractures . . . . . . . . . . . . . . . . . . . . . . . . . . | -
-   Sprains and strains of wrist and hand . . . . . . . . . . . . . . . | -
+   Fracture of radius and ulna . . . . . . . . . . . . . . . . . . . . | 
+   Fracture of hand and fingers. . . . . . . . . . . . . . . . . . . . | 
+   Fracture of lower limb. . . . . . . . . . . . . . . . . . . . . . . | 
+   Other fractures . . . . . . . . . . . . . . . . . . . . . . . . . . | 
+   Sprains and strains of wrist and hand . . . . . . . . . . . . . . . | 
    Sprains and strains of knee and leg . . . . . . . . . . . . . . . . | 28.9
    Sprains and strains of ankle. . . . . . . . . . . . . . . . . . . . | 28.7
    Sprains and strains of neck . . . . . . . . . . . . . . . . . . . . | 30.6
    Other sprains and strains of back . . . . . . . . . . . . . . . . . | 41.7
    Other sprains and strains . . . . . . . . . . . . . . . . . . . . . | 27.8
-   Intracranial injury, excluding those with skull fracture. . . . . . | -
-   Open wound of head. . . . . . . . . . . . . . . . . . . . . . . . . | -
+   Intracranial injury, excluding those with skull fracture. . . . . . | 
+   Open wound of head. . . . . . . . . . . . . . . . . . . . . . . . . | 
    Open wound of hand and fingers. . . . . . . . . . . . . . . . . . . | 17.7
    Other open wound. . . . . . . . . . . . . . . . . . . . . . . . . . | 31.7
-   Superficial injuries of cornea. . . . . . . . . . . . . . . . . . . | -
+   Superficial injuries of cornea. . . . . . . . . . . . . . . . . . . | 
    Other superficial injury. . . . . . . . . . . . . . . . . . . . . . | 53.0
    Contusion with intact skin surface. . . . . . . . . . . . . . . . . | 26.9
    Other injuries. . . . . . . . . . . . . . . . . . . . . . . . . . . | 29.5
-   Poisonings. . . . . . . . . . . . . . . . . . . . . . . . . . . . . | -
+   Poisonings. . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 
    Other and unspecified effects of external causes. . . . . . . . . . | 37.8
-   Complications of surgical/medical care, not elsewhere classified. . | -
+   Complications of surgical/medical care, not elsewhere classified. . | 
 Supplementary classification of factors influencing health status. . . | 61.9
    Potential health hazards related to communicable diseases . . . . . | 59.1
    Potential health hazards related to personal and family history . . | 44.4
@@ -192,3 +193,8 @@ Supplementary classification of factors influencing health status. . . | 61.9
    Gynecological examination . . . . . . . . . . . . . . . . . . . . . | 92.0
    Other factors influencing health status or health services contact. | 39.3
 Blank and illegible. . . . . . . . . . . . . . . . . . . . . . . . . . | 51.2
+
+Author : CDC
+Page : 22+
+Table : 7
+File : https://www.cdc.gov/nchs/data/series/sr_13/sr13_169.pdf  

@@ -1,0 +1,23 @@
+Table : Percentage of selected procedures in emergency department visit, United States, 2007 
+
+One or more procedure listed     | 45.5
+None                             | 49.6
+Blank                            |  5.0
+
+Intravenous fluids               | 26.6
+Splint or wrap                   |  5.7
+Laceration repair                |  4.4
+Nebulizer therapy                |  2.6
+Bladder catheter                 |  2.2
+Wound debridement                |  1.7
+Incision and drainage            |  1.0
+Cast                             |  0.5
+Foreign body removal             |  0.4
+Nasogastric tube gastric suction |  0.3
+Endotracheal intubation          |  0.2
+Other                            |  8.3
+
+Author : CDC
+Page 22
+Table 16
+https://www.cdc.gov/nchs/data/nhsr/nhsr026.pdf  

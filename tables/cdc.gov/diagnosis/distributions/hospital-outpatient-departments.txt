@@ -1,0 +1,200 @@
+Table : Percent distribution of setting type according to diagnosis group, by hospital outpatient departments, in United States, 2006–2007
+
+Diagnosis group                                                        | Percent
+--------------------------------------------------------------------------------
+All  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  8.2
+Infectious and parasitic diseases. . . . . . . . . . . . . . . . . . . | 10.6
+   Streptococcal sore throat . . . . . . . . . . . . . . . . . . . . . |  7.1
+   Human immunodeficiency virus disease (HIV). . . . . . . . . . . . . | 58.0
+   Viral warts . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  5.7
+   Unspecified viral and chlamydial infection. . . . . . . . . . . . . |  6.4
+   Dermatophytosis . . . . . . . . . . . . . . . . . . . . . . . . . . |  9.3
+   Candidiasis . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  8.7
+   Other infectious and parasitic diseases . . . . . . . . . . . . . . | 11.2
+Neoplasms. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 10.7
+   Malignant neoplasms of colon and rectum . . . . . . . . . . . . . . | 11.0
+   Malignant neoplasm of skin. . . . . . . . . . . . . . . . . . . . . |  3.5
+   Malignant neoplasm of breast. . . . . . . . . . . . . . . . . . . . | 15.4
+   Malignant neoplasm of prostate. . . . . . . . . . . . . . . . . . . |  7.3
+   Malignant neoplasm of lymphatic and hematopoietic tissue. . . . . . | 19.7
+   Other malignant neoplasms . . . . . . . . . . . . . . . . . . . . . | 13.6
+   Benign neoplasm of skin . . . . . . . . . . . . . . . . . . . . . . |  3.9
+   Other benign neoplasm . . . . . . . . . . . . . . . . . . . . . . . |  9.5
+   Neoplasm of uncertain behavior and unspecified nature . . . . . . . |  9.9
+Endocrine, nutritional and metabolic diseases, immunity disorders. . . | 11.1
+   Acquired hypothyroidism . . . . . . . . . . . . . . . . . . . . . . | 11.1
+   Other disorders of thyroid gland. . . . . . . . . . . . . . . . . . | 13.4
+   Diabetes mellitus . . . . . . . . . . . . . . . . . . . . . . . . . | 13.1
+   Disorders of lipoid metabolism. . . . . . . . . . . . . . . . . . . |  6.4
+   Obesity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  9.7
+   Other endocrine, nutritional/metabolic diseases, immunity disorders | 11.0
+Diseases of the blood and blood-forming organs . . . . . . . . . . . . | 11.9
+   Anemias . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 11.5
+   Other diseases of the blood and blood-forming organs. . . . . . . . | 12.9
+Mental disorders . . . . . . . . . . . . . . . . . . . . . . . . . . . | 13.0
+   Schizophrenic disorders . . . . . . . . . . . . . . . . . . . . . . | 18.6
+   Major depressive disorder . . . . . . . . . . . . . . . . . . . . . | 13.6
+   Other psychoses . . . . . . . . . . . . . . . . . . . . . . . . . . | 13.9
+   Anxiety states. . . . . . . . . . . . . . . . . . . . . . . . . . . |  8.1
+   Neurotic depression . . . . . . . . . . . . . . . . . . . . . . . . |  9.1
+   Alcohol dependence syndrome . . . . . . . . . . . . . . . . . . . . | 53.9
+   Drug dependence and nondependent abuse of drugs . . . . . . . . . . | 30.2
+   Acute reaction to stress and adjustment reaction. . . . . . . . . . | 19.1
+   Depressive disorder, not elsewhere classified . . . . . . . . . . . |  9.2
+   Attention deficit disorder. . . . . . . . . . . . . . . . . . . . . | 11.0
+   Other mental disorders. . . . . . . . . . . . . . . . . . . . . . . |  9.0
+Diseases of the nervous system and sense organs. . . . . . . . . . . . |  5.9
+   Migraine. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  5.2
+   Other disorders of the central nervous system . . . . . . . . . . . |  9.6
+   Carpal tunnel syndrome. . . . . . . . . . . . . . . . . . . . . . . |  6.6
+   Other disorders of the peripheral nervous system. . . . . . . . . . |  7.5
+   Retinal detachment and other retinal disorders. . . . . . . . . . . |  3.4
+   Glaucoma. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  2.5
+   Cataract. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  2.6
+   Disorders of refraction and accommodation . . . . . . . . . . . . . |  5.4
+   Conjunctivitis. . . . . . . . . . . . . . . . . . . . . . . . . . . |  7.8
+   Disorder of eyelids . . . . . . . . . . . . . . . . . . . . . . . . |  5.6
+   Other disorders of the eye and adnexa . . . . . . . . . . . . . . . |  5.0
+   Disorders of external ear . . . . . . . . . . . . . . . . . . . . . |  7.6
+   Otitis media and eustachian tube disorders. . . . . . . . . . . . . |  7.9
+   Other disorders of the ear and mastoid process. . . . . . . . . . . |  4.9
+Diseases of the circulatory system . . . . . . . . . . . . . . . . . . |  8.3
+   Angina pectoris . . . . . . . . . . . . . . . . . . . . . . . . . . |  
+   Coronary atherosclerosis. . . . . . . . . . . . . . . . . . . . . . |  6.2
+   Other ischemic heart disease. . . . . . . . . . . . . . . . . . . . |  5.4
+   Cardiac dysrhythmias. . . . . . . . . . . . . . . . . . . . . . . . |  9.2
+   Congestive heart failure. . . . . . . . . . . . . . . . . . . . . . |  9.7
+   Other heart disease . . . . . . . . . . . . . . . . . . . . . . . . |  8.2
+   Essential hypertension. . . . . . . . . . . . . . . . . . . . . . . |  8.4
+   Cerebrovascular disease . . . . . . . . . . . . . . . . . . . . . . |  6.4
+   Diseases of the arteries, arterioles and capillaries. . . . . . . . |  9.7
+   Hemorrhoids . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  6.7
+   Other diseases of the circulatory system. . . . . . . . . . . . . . | 12.2
+Diseases of the respiratory system . . . . . . . . . . . . . . . . . . |  7.4
+   Acute sinusitis . . . . . . . . . . . . . . . . . . . . . . . . . . | 11.7
+   Acute pharyngitis . . . . . . . . . . . . . . . . . . . . . . . . . |  9.0
+   Acute tonsillitis . . . . . . . . . . . . . . . . . . . . . . . . . |  6.6
+   Acute bronchitis and bronchiolitis. . . . . . . . . . . . . . . . . |  9.3
+   Other acute respiratory infections. . . . . . . . . . . . . . . . . |  7.2
+   Chronic sinusitis . . . . . . . . . . . . . . . . . . . . . . . . . |  9.5
+   Allergic rhinitis . . . . . . . . . . . . . . . . . . . . . . . . . |  4.8
+   Pneumonia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  5.4
+   Chronic and unspecified bronchitis. . . . . . . . . . . . . . . . . |  6.8
+   Asthma. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  8.3
+   Other chronic obstructive pulmonary disease, allied conditions. . . |  4.3
+   Other diseases of the respiratory system. . . . . . . . . . . . . . |  6.3
+Diseases of the digestive system . . . . . . . . . . . . . . . . . . . |  7.0
+   Diseases of the teeth and supporting structures . . . . . . . . . . |  7.7
+   Gastritis and duodenitis. . . . . . . . . . . . . . . . . . . . . . |  4.5
+   Esophagitis . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  
+   Ulcer of stomach and small intestine. . . . . . . . . . . . . . . . |  
+   Hernia of abdominal cavity. . . . . . . . . . . . . . . . . . . . . |  7.6
+   Noninfectious enteritis and colitis . . . . . . . . . . . . . . . . |  6.7
+   Diverticula of intestine. . . . . . . . . . . . . . . . . . . . . . |  5.8
+   Constipation. . . . . . . . . . . . . . . . . . . . . . . . . . . . |  8.7
+   Irritable bowel syndrome. . . . . . . . . . . . . . . . . . . . . . |  5.7
+   Anal and rectal diseases. . . . . . . . . . . . . . . . . . . . . . |  5.6
+   Disorder of gallbladder and biliary tract . . . . . . . . . . . . . |  6.2
+   Gastrointestinal hemorrhage . . . . . . . . . . . . . . . . . . . . | 10.2
+   Other diseases of the digestive system. . . . . . . . . . . . . . . |  6.9
+Diseases of the genitourinary system . . . . . . . . . . . . . . . . . |  8.2
+   Calculus of kidney and ureter . . . . . . . . . . . . . . . . . . . |  6.0
+   Cystitis and other disorders of the bladder . . . . . . . . . . . . |  4.5
+   Urinary tract infection, site not specified . . . . . . . . . . . . |  7.6
+   Other diseases of the urinary system. . . . . . . . . . . . . . . . |  7.6
+   Hyperplasia of prostate . . . . . . . . . . . . . . . . . . . . . . |  3.6
+   Other disorders of male genital organs. . . . . . . . . . . . . . . |  7.3
+   Disorders of the breast . . . . . . . . . . . . . . . . . . . . . . | 10.7
+   Inflammatory disease of female pelvic organs. . . . . . . . . . . . |  9.1
+   Noninflammatory disorders of the female genital organs. . . . . . . | 10.3
+   Disorders of menstruation and abnormal bleeding . . . . . . . . . . | 10.4
+   Menopausal and postmenopausal disorders . . . . . . . . . . . . . . |  4.1
+   Other disorders of female genital tract . . . . . . . . . . . . . . | 12.2
+Complications of pregnancy, childbirth, and the puerperium . . . . . . | 17.7
+Diseases of the skin and subcutaneous tissue . . . . . . . . . . . . . |  6.0
+   Cellulitis and abscess. . . . . . . . . . . . . . . . . . . . . . . |  6.6
+   Other infection of the skin and subcutaneous tissue . . . . . . . . |  8.8
+   Contact dermatitis and other eczema . . . . . . . . . . . . . . . . |  5.6
+   Psoriasis and similar disorders . . . . . . . . . . . . . . . . . . |  7.6
+   Other inflammatory conditions of skin and subcutaneous tissue . . . |  6.1
+   Corns, callosities, other hypertrophic, atrophic skin conditions. . |  6.4
+   Actinic and seborrheic keratosis. . . . . . . . . . . . . . . . . . |  
+   Acne. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  3.4
+   Sebaceous cyst. . . . . . . . . . . . . . . . . . . . . . . . . . . |  5.2
+   Urticaria . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  7.2
+   Other disorders of the skin and subcutaneous tissue . . . . . . . . |  9.4
+Diseases of the musculoskeletal system and connective tissue . . . . . |  7.2
+   Rheumatoid arthritis. . . . . . . . . . . . . . . . . . . . . . . . |  8.6
+   Osteoarthrosis and allied disorders . . . . . . . . . . . . . . . . |  4.1
+   Other arthropathies and related disorders . . . . . . . . . . . . . |  7.6
+   Derangements and other unspecified disorders of joints. . . . . . . |  8.4
+   Intervertebral disc disorders . . . . . . . . . . . . . . . . . . . |  6.9
+   Lumbago . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  7.5
+   Other dorsopathies. . . . . . . . . . . . . . . . . . . . . . . . . |  7.4
+   Peripheral enthesopathies . . . . . . . . . . . . . . . . . . . . . |  6.4
+   Synovitis and tenosynovitis . . . . . . . . . . . . . . . . . . . . |  4.8
+   Myalgia and myositis, unspecified . . . . . . . . . . . . . . . . . |  7.8
+   Other rheumatism,excluding back . . . . . . . . . . . . . . . . . . |  7.5
+   Disorders of bone and cartilage . . . . . . . . . . . . . . . . . . |  9.5
+   Other diseases of the musculoskeletal system, connective tissue . . |  9.0
+Congenital anomalies . . . . . . . . . . . . . . . . . . . . . . . . . | 18.0
+Certain conditions originating in the perinatal period . . . . . . . . | 12.4
+Symptoms, signs, and ill-defined conditions. . . . . . . . . . . . . . |  6.8
+   Syncope and collapse. . . . . . . . . . . . . . . . . . . . . . . . |  3.4
+   Convulsions . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  9.6
+   Dizziness and giddiness . . . . . . . . . . . . . . . . . . . . . . |  4.2
+   Pyrexia of unknown origin . . . . . . . . . . . . . . . . . . . . . |  4.0
+   Symptoms involving skin and other integumentary tissue. . . . . . . |  8.4
+   Headache. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  6.9
+   Epistaxis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  3.4
+   Abnormal heart sounds . . . . . . . . . . . . . . . . . . . . . . . |  9.9
+   Dyspnea and respiratory abnormalities . . . . . . . . . . . . . . . |  5.4
+   Cough . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 10.1
+   Chest pain. . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  4.9
+   Symptoms involving the urinary system . . . . . . . . . . . . . . . |  7.0
+   Abdominal pain. . . . . . . . . . . . . . . . . . . . . . . . . . . |  5.9
+   Other symptoms, signs and ill-defined conditions. . . . . . . . . . |  7.6
+Injury and poisoning . . . . . . . . . . . . . . . . . . . . . . . . . |  6.5
+   Fracture of radius and ulna . . . . . . . . . . . . . . . . . . . . |  7.5
+   Fracture of hand and fingers. . . . . . . . . . . . . . . . . . . . |  7.4
+   Fracture of lower limb. . . . . . . . . . . . . . . . . . . . . . . |  8.0
+   Other fractures . . . . . . . . . . . . . . . . . . . . . . . . . . |  7.9
+   Sprains and strains of wrist and hand . . . . . . . . . . . . . . . |  8.8
+   Sprains and strains of knee and leg . . . . . . . . . . . . . . . . |  6.5
+   Sprains and strains of ankle. . . . . . . . . . . . . . . . . . . . |  8.3
+   Sprains and strains of neck . . . . . . . . . . . . . . . . . . . . |  4.5
+   Other sprains and strains of back . . . . . . . . . . . . . . . . . |  5.0
+   Other sprains and strains . . . . . . . . . . . . . . . . . . . . . |  4.5
+   Intracranial injury, excluding those with skull fracture. . . . . . |  3.2
+   Open wound of head. . . . . . . . . . . . . . . . . . . . . . . . . |  4.3
+   Open wound of hand and fingers. . . . . . . . . . . . . . . . . . . |  6.6
+   Other open wound. . . . . . . . . . . . . . . . . . . . . . . . . . |  9.7
+   Superficial injuries of cornea. . . . . . . . . . . . . . . . . . . |  5.3
+   Other superficial injury. . . . . . . . . . . . . . . . . . . . . . |  7.0
+   Contusion with intact skin surface. . . . . . . . . . . . . . . . . |  5.5
+   Other injuries. . . . . . . . . . . . . . . . . . . . . . . . . . . |  7.3
+   Poisonings. . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  
+   Other and unspecified effects of external causes. . . . . . . . . . |  4.9
+   Complications of surgical/medical care, not elsewhere classified. . |  7.9
+Supplementary classification of factors influencing health status. . . |  9.2
+   Potential health hazards related to communicable diseases . . . . . | 23.3
+   Potential health hazards related to personal and family history . . | 10.1
+   Routine infant or child health check. . . . . . . . . . . . . . . . |  8.0
+   Normal pregnancy. . . . . . . . . . . . . . . . . . . . . . . . . . | 13.2
+   Postpartum care and examination . . . . . . . . . . . . . . . . . . |  9.5
+   Encounter for contraceptive management. . . . . . . . . . . . . . . | 14.1
+   Other encounter related to reproduction . . . . . . . . . . . . . . | 17.8
+   Lens replaced by pseudophakos . . . . . . . . . . . . . . . . . . . |  
+   Artificial opening status and other postsurgical states . . . . . . |  7.9
+   Attention to dressings and sutures. . . . . . . . . . . . . . . . . |  9.1
+   Follow-up examination . . . . . . . . . . . . . . . . . . . . . . . |  5.4
+   General medical examination . . . . . . . . . . . . . . . . . . . . |  7.8
+   Observation and evaluation for suspected conditions not found . . . |  9.6
+   Gynecological examination . . . . . . . . . . . . . . . . . . . . . |  7.4
+   Other factors influencing health status or health services contact. |  8.4
+Blank and illegible. . . . . . . . . . . . . . . . . . . . . . . . . . |  5.0
+
+Author : CDC
+Page : 22+
+Table : 7
+File : https://www.cdc.gov/nchs/data/series/sr_13/sr13_169.pdf  
