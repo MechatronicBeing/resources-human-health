@@ -1,0 +1,21 @@
+Pourcentages de naissances, en fonction de l'âge de la mère (en années) et de l'âge gestationnel (en semaines), aux États-Unis, en 2019
+
+Âge de la mère  | < 28 | 28–31 | 32–33 | 34–36 | 37–38 | 39–40 |  41  | >=42
+----------------------------------------------------------------------------
+Moins de 15 ans | 1.74 |  1.8  |  1.69 |  9.16 | 30.35 | 49.97 | 5.12 | 0.17
+15–19 ans       | 0.87 |  1.03 |  1.21 |  7.24 | 27.13 | 56.61 | 5.73 | 0.18
+20–24 ans       | 0.7  |  0.9  |  1.11 |  7.17 | 27.19 | 57.45 | 5.26 | 0.21
+25–29 ans       | 0.63 |  0.85 |  1.08 |  7.03 | 26.81 | 57.99 | 5.37 | 0.25
+30–34 ans       | 0.6  |  0.88 |  1.15 |  7.21 | 26.62 | 57.66 | 5.6  | 0.27
+35–39 ans       | 0.67 |  1.06 |  1.38 |  8.47 | 28.71 | 55.0  | 4.43 | 0.28
+40–44 ans       | 0.83 |  1.35 |  1.75 | 10.04 | 31.79 | 51.49 | 2.48 | 0.27
+45–54 ans       | 1.14 |  2.27 |  2.82 | 15.49 | 34.11 | 42.16 | 1.8  | 0.21
+----------------------------------------------------------------------------
+Tout âge        | 0.66 |  0.93 |  1.18 |  7.46 | 27.31 | 57.02 | 5.19 | 0.25
+
+---
+Centers for Disease Control and Prevention National Center for Health Statistics
+Titre : "Births: Final Data for 2019"
+Page : 41
+Licence : domaine public (travaux du gouvernement fédéral américain)
+Fichier : https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-02-508.pdf

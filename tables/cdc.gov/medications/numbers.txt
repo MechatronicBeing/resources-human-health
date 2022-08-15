@@ -1,0 +1,16 @@
+Table : Number and percent distribution of medications provided or prescribed, in emergency department visits, United States, 2007
+https://www.cdc.gov/nchs/data/nhsr/nhsr026.pdf
+
+Visits without mention of medication       | 23.7
+Visits with mention of medication          | 76.3
+   1 medication provided or prescribed     | 26.2
+   2 medications provided or prescribed    | 22.0
+   3 medications provided or prescribed    | 13.5
+   4 medications provided or prescribed    |  7.1
+   5 medications provided or prescribed    |  3.8
+   6 medications provided or prescribed    |  1.8
+   7 medications provided or prescribed    |  0.9
+   8 medications provided or prescribed    |  0.9
+
+Table 17
+https://www.cdc.gov/nchs/data/nhsr/nhsr026.pdf
