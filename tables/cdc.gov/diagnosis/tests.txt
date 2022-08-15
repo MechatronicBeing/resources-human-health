@@ -1,0 +1,46 @@
+Table : Percentage of emergency department visits with corresponding standard errors, by diagnostic services ordered or provided: United States, 2007	
+
+One or more diagnostic or screening service listed          | 66.4
+None                                                        | 30.9
+Blank                                                       |  2.7
+
+Blood tests
+   Complete blood count                                     | 35.4
+   Blood urea nitrogen or creatinine                        | 22.1
+   Glucose                                                  | 19.6
+   Electrolytes                                             | 19.5
+   Cardiac enzymes                                          | 12.1
+   Liver function tests                                     |  7.9
+   Prothrombin time or international normalized ratio (INR) |  5.2
+   Blood culture                                            |  3.6
+   Toxicology screen                                        |  2.7
+   Arterial blood gases                                     |  2.4
+   Blood alcohol concentration                              |  1.6
+   Other blood test                                         | 18.0
+   Any blood test listed                                    | 39.8
+   
+Imaging
+   X-ray                                                    | 33.8
+   Computed tomography scan                                 | 13.9
+   Head                                                     |  6.7
+   Other than head                                          |  6.7
+   Ultrasound                                               |  3.0
+   Magnetic resonance imaging scan                          |  0.7
+   Head                                                     |  0.3
+   Other than head                                          |  0.3
+   Other imaging                                            |  1.0
+   Any imaging                                              | 44.4
+   
+Examinations and tests
+   Urinalysis                                               | 22.5
+   Electrocardiogram                                        | 16.6
+   Cardiac monitor                                          |  8.0
+   Pregnancy test                                           |  4.8
+   Rapid flu or influenza test                              |  1.3
+   Wound culture                                            |  0.8
+   Other test or service                                    | 11.2
+
+Author : CDC
+Table 15. 
+Page : 21
+https://www.cdc.gov/nchs/data/nhsr/nhsr026.pdf
