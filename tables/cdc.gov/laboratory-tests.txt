@@ -1,0 +1,413 @@
+Laboratory tests
+
+Acrylamide/Glycidamide
+   Whole blood
+   Chemical carcinogen used in synthetic fibers
+   
+Albumin
+   Urine
+   Major protein in the body
+   
+Albumin/Creatinine ratio
+   Urine
+   Ratio of albumin to creatinine used to detect kidney disease progression
+   
+Allergen total and specific IgE immunoglobulins
+   Serum
+   Markers of immune response to allergens
+   
+Apolipoprotein (B)
+   Serum
+   Protein that binds to lipids and transports them in the body
+    
+Arsenic
+   Urine
+   Toxic heavy metal
+
+Arsenic (total/speciated)
+   Urine
+   Toxic heavy metal
+   
+Bacterial vaginosis
+Swab
+Imbalance in bacteria normally found in the vagina
+
+Biochemistry panel
+Serum
+Panel of 23 clinical tests used to assess general health
+
+Bone alkaline phosphatase
+Serum
+Enzyme that removes phosphate from other molecules
+
+Cadmium (blood)
+Whole blood
+Toxic heavy metal
+
+Caffeine
+Urine
+Psychoactive stimulant
+
+CD4/CD8
+Whole blood
+Cells that protect the body from infection
+
+Chlamydia
+Urine
+Sexually transmitted pathogen
+
+Complete blood count
+Whole blood
+Panel of 20 clinical tests used to assess general health
+
+Cotinine
+Serum
+Metabolite of nicotine
+
+C-peptide
+Serum
+Protein marker of insulin secretion
+
+C-reactive protein
+Serum
+Protein produced in response to tissue damage and inflammation
+
+Creatinine
+Urine/serum
+Waste product of normal muscle breakdown
+
+Cryptosporidium (antibody)
+Serum
+Intestinal parasite usually found in water
+
+Current-use pesticides/Priority pesticides
+Urine/serum
+Chemicals that repel or destroy pests (insects and rodents)
+
+Fungicides
+Urine/serum
+Chemicals that destroy fungi
+
+Herbicides
+Urine/serum
+Chemicals that destroy plants
+
+Dioxins, furans, and coplanar PCBs/Persistent pesticides
+Serum
+Synthetic chemicals that persist as environmental pollutants
+
+Endotoxins
+Dust
+Toxins associated with certain bacteria
+
+Environmental pesticides/Halogenated phenolic compounds
+Urine
+Chemicals that repel or destroy pests (insects and rodents)
+
+Environmental phenols
+Urine
+Natural and synthetic chemicals containing phenol that may be toxic
+
+Environmental parabens
+Urine
+Synthetic preservatives that may cause hormone disruption
+
+Erythrocyte protoporphyrin
+Whole blood
+Protein used in the synthesis of hemoglobin in the red blood cell
+
+Fatty acids
+Plasma
+Synthetic fat found in food that raises LDL cholesterol and lowers HDL cholesterol
+
+Ferritin
+Serum
+Iron stored in the body
+
+Fibrinogen
+Plasma
+Coagulation protein
+
+Flow rate
+Urine
+Measure of urine quantity produced in a specified time period
+
+Folate (RBC)
+Whole blood
+Vitamin important in the formation of red blood cells
+
+Folate
+Serum
+Vitamin important in the formation of red blood cells
+
+Follicle stimulating hormone/LH
+Serum
+Hormone that regulates ovarian function
+
+Glucose plasma
+Plasma
+Amount of sugar in the blood
+
+Glycohemoglobin
+Whole blood
+Measure of average blood glucose in the past 2 to 3 months
+
+Gonorrhea
+Urine
+Sexually transmitted disease pathogen
+
+Helicobacter pylori
+Serum
+Bacterium that causes stomach ulcers
+
+Hepatitis B anti-HBs
+Serum
+Indicates previous exposure to hepatitis B infection, or vaccination
+
+Hepatitis B HBsAg
+Serum
+Indicates hepatitis B infection
+
+Hepatitis A, C, and D (antibody)
+Serum
+Serologic tests for antibody to viruses that cause liver disease
+
+Hepatitis C RNA (HCU–RNA) and HCV genotype
+Serum
+Serologic tests to identify Hepatitis C RNA and genotypes
+
+Hepatitis E
+Serum
+Serologic tests to identify Hepatitis C RNA and genotypes
+
+Herpes 1 and 2 antibody
+Urine/Serum
+Antibodies to herpes virus
+
+HIV antibody
+Serum
+Antibody to HIV
+
+HLA–B27
+Serum
+Antigen found in blood associated with a number of inflammatory conditions
+
+Homocysteine
+Plasma
+Amino acid in the blood that can be a risk factor for cardiovascular disease
+
+Human papillomavirus
+Serum / Swab / Oral rinse
+Virus that infects the skin and may cause cancer
+
+Indoor allergens
+Dust
+Any substance found in the bed or bedroom that can cause an allergic reaction
+
+Insulin
+Serum
+Hormone that regulates glucose metabolism
+
+Iodine
+Urine
+Element that is a component of thyroid hormones
+
+Iron
+Serum
+Mineral the body needs to make red blood cells
+
+Latex
+Serum
+Natural or synthetic emulsion of polymer microparticles
+
+Lead
+Whole blood
+Toxic metal that can affect physical and mental development
+
+Lead dust
+Dust
+Lead that is recovered from household dust
+
+Total cholesterol, triglycerides, HDL, LDL
+Serum
+Lipid panel showing concentrations of lipids in the blood
+
+Lipoprotein a (Lpa)
+Serum
+Low-density lipoprotein that is a risk factor for atherosclerotic disease
+
+Measles/Mumps/Varicella/Rubella (antibody)
+Serum
+Markers of immunization status
+
+Mercury
+Hair / Urine / Whole blood
+Toxic heavy metal
+
+Methylmalonic acid
+Plasma
+Elevated levels may indicate Vitamin B12 deficiency
+
+Methicillin-resistant Staphylococcus aureus
+Swab
+Bacteria resistant to the antibiotic methicillin
+
+Multi-element metals/heavy metals
+Urine
+Toxic heavy metals detected in urine
+
+NNAL
+Urine
+Metabolite of nicotine
+
+NTX (N-telopeptides)
+Urine
+Breakdown product of collagen, used as a marker of bone turnover
+
+OGTT glucose plasma
+Plasma
+Oral glucose tolerance test to determine how quickly glucose is cleared from the blood
+
+Omega-3 fatty acids/PUFA
+Plasma
+Polyunsaturated fat found in food, which has been shown to lower the risk of cardiovascular disease
+
+Organochlorine pesticides
+Serum
+Diverse synthetic insecticides that are persistent in the environment
+
+Organophosphate insecticides
+Urine
+Diverse synthetic insecticides that are persistent in the environment
+
+Osmolality
+Urine
+Measure of urine concentration
+
+Parathyroid hormone
+Serum
+Hormone that regulates calcium absorption and converts vitamin D to its active form
+
+Perchlorate
+Urine
+Chemical that interferes with iodine uptake by the thyroid gland
+
+Perchlorate, nitrate, and iodine
+Water
+Three toxicologically related analytes that affect thyroid function
+
+Perchlorate, nitrate, and thiocyanate
+Urine
+Nitrate is a component of fertilizer that is a groundwater pollutant; thiocyanate is a compound in tobacco smoke
+
+Phthalates
+Urine
+Chemicals used in plastic that have been shown to change hormone levels
+
+Phytoestrogens
+Urine
+Naturally occurring nonsteroidal plant compounds that are similar to estrogen
+
+Polycyclic aromatic hydrocarbons (PAH)
+Urine
+Atmospheric pollutants produced as byproducts of burning fuel
+
+Polybrominated diphenl ethers (BDEs)
+Serum
+Flame retardants that bio-accumulate and may cause hormone-disrupting effects
+
+Polyfluorinated compounds
+Serum
+Persistent organic pollutants
+
+Pregnancy (HCG)
+Urine
+Hormone diagnostic for pregnancy
+
+PSA (free/total)
+Serum
+Protein produced by the prostate gland that is elevated in prostate conditions
+
+PSA (complex)
+Serum
+Prostate-specific antigen complexed to proteins
+
+Selenium
+Serum
+Essential micronutrient that catalyzes enzyme reactions
+
+SRM pesticides
+Serum
+Selected reaction monitoring (SRM) is a method of chromatography resulting in highly specific quantification of analyte
+
+Syphilis IgG, RR, and TP–PA
+Serum
+Tests that detect syphilis, a sexually transmitted pathogen
+
+Thyroid function testing (T4, T3, ATG,TGN, APO, TSH)
+Serum
+Tests to assess thyroid function
+
+TIBC
+Serum
+Test that determines iron-binding capacity
+
+Toxoplasma (IgG and IgM)
+Serum
+Antibodies to a parasite that can cause illness in humans
+
+Transferrin receptor
+Serum
+Carrier protein for transferrin
+
+Transferrin saturation
+Serum
+Ratio of serum iron and total iron-binding capacity, multiplied by 100
+
+Trichomonos (females)
+Swab
+Parasite that causes vaginal infection
+
+Tissue transglutaminase and endomysial antibodies
+Serum
+Markers of celiac disease
+
+Vitamins A and E/Carotenoids
+Serum
+Nutrient vitamins required for retinal function that act as antioxidants
+
+Vitamin B6
+Serum
+Part of the vitamin B-complex that acts as an enzyme cofactor in amino acid metabolism
+
+Vitamin B12
+Serum
+Part of the vitamin B-complex involved in cell metabolism and DNA synthesis
+
+Vitamin C
+Serum
+Nutrient vitamin that acts as an enzyme cofactor and antioxidant
+
+Vitamin D
+Serum
+Nutrient vitamin produced in the skin after absorption of ultraviolet light
+
+VOC (blood)
+Whole blood
+Toxic volatile organic compounds
+
+VOC exposure monitor
+Air monitor
+Measures environmental exposure to toxic volatile organic compounds
+
+VOC (water)
+Water
+Toxic volatile organic compounds found in residential water
+
+WBC/DNA
+Whole blood
+White blood cells used to extract DNA
+
+---
+Author : CDC
+File : https://www.cdc.gov/nchs/data/series/sr_01/sr01_056.pdf
