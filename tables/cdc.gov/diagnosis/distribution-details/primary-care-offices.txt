@@ -194,6 +194,7 @@ Supplementary classification of factors influencing health status. . . | 61.9
    Other factors influencing health status or health services contact. | 39.3
 Blank and illegible. . . . . . . . . . . . . . . . . . . . . . . . . . | 51.2
 
+---
 Author : CDC
 Page : 22+
 Table : 7

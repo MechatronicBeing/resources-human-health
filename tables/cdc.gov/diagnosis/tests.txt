@@ -5,6 +5,8 @@ None                                                        | 30.9
 Blank                                                       |  2.7
 
 Blood tests
+------------------------------------------------------------------
+   Any blood test listed                                    | 39.8
    Complete blood count                                     | 35.4
    Blood urea nitrogen or creatinine                        | 22.1
    Glucose                                                  | 19.6
@@ -17,9 +19,11 @@ Blood tests
    Arterial blood gases                                     |  2.4
    Blood alcohol concentration                              |  1.6
    Other blood test                                         | 18.0
-   Any blood test listed                                    | 39.8
+
    
 Imaging
+------------------------------------------------------------------
+   Any imaging listed                                       | 44.4
    X-ray                                                    | 33.8
    Computed tomography scan                                 | 13.9
    Head                                                     |  6.7
@@ -29,9 +33,10 @@ Imaging
    Head                                                     |  0.3
    Other than head                                          |  0.3
    Other imaging                                            |  1.0
-   Any imaging                                              | 44.4
+
    
 Examinations and tests
+------------------------------------------------------------------
    Urinalysis                                               | 22.5
    Electrocardiogram                                        | 16.6
    Cardiac monitor                                          |  8.0
@@ -40,6 +45,7 @@ Examinations and tests
    Wound culture                                            |  0.8
    Other test or service                                    | 11.2
 
+---
 Author : CDC
 Table 15. 
 Page : 21

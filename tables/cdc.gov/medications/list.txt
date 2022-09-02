@@ -1,4 +1,4 @@
-Table : Therapeutic categories for drugs provided, prescribed, or continued, at ambulatory care visits, by number of occurences per 100 drug mention, United States, 2007               
+Table : Therapeutic categories for drugs provided, prescribed, or continued, at ambulatory care visits, by number of occurences per 100 drug mention, United States, 2007
                   
 Therapeutic drug category                                | Number of occurences per 100 drug mention
 All occurrences. . . . . . . . . . . . . . . . . . . . . | 113.1

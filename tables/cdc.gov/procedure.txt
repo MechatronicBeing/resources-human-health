@@ -17,6 +17,7 @@ Nasogastric tube gastric suction |  0.3
 Endotracheal intubation          |  0.2
 Other                            |  8.3
 
+---
 Author : CDC
 Page 22
 Table 16
