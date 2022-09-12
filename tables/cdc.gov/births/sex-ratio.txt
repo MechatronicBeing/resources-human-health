@@ -1,0 +1,15 @@
+Birth sex-ratio, in 2019 
+
+Births  | % births
+------------------
+Male    |   51.17 
+Female  |   48.83 
+
+
+---
+Authors : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Births: Final Data for 2019"
+Page : 29
+Table : 11
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+File : https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-02-508.pdf

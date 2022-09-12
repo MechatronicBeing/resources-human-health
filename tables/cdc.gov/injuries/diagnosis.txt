@@ -1,0 +1,36 @@
+Diagnostique médical | Pourcentage
+TOTAL Blessures et Empoissonnement | 6.9
+Fractures
+Radius et cubitus | 0.2
+Main et doigts | 0.3
+Membres inférieurs | 0.4
+Autres | 0.3
+Entorses et foulures
+Poignet et main | 0.1
+Genou et jambe | 0.2
+Cheville | 0.3
+Cou | 0.2
+Dos | 0.5
+Autre | 0.6
+Blessures
+Intracrânienne (sans fracture) | 0.1
+Ouvertes
+Tête | 0.3
+Main et doigts | 0.3
+Autre | 0.4
+Superficielles
+Cornée | 0.1
+Autres | 0.3
+Contusion avec peau intacte | 0.8
+Autres | 0.9
+Empoisonnement | 0.1
+Autre | 0.4
+Complications médicales et chirurgicales | 0.2
+
+---
+Author : Centers for Disease Control and Prevention National Center for Health Statistics
+Title : "National Hospital Ambulatory Medical Care Survey: 2007 Emergency Department Summary"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+Page : 20 
+Table : 14
+File : https://www.cdc.gov/nchs/data/nhsr/nhsr026.pdf
