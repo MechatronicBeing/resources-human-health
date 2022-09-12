@@ -1,0 +1,42 @@
+Weight in kilograms for male persons from birth to  mean, United States, 1988–1994
+
+Age                | Mean | Lower/higher gap | % completion
+-----------------------------------------
+at birth           |  3.5 |  ±1 |   4
+3–5 months         |  7.4 |  ±1 |   9
+6–8 months         |  8.8 |  ±1 |  11
+9–11 months        |  9.6 |  ±1 |  12
+ 1 year            | 11.6 |  ±2 |  14
+ 2 years           | 13.6 |  ±2 |  17
+ 3 years           | 15.8 |  ±3 |  19
+ 4 years           | 17.7 |  ±3 |  22
+ 5 years           | 20.1 |  ±4 |  24
+ 6 years           | 23.3 |  ±5 |  28
+ 7 years           | 26.3 |  ±5 |  32
+ 8 years           | 30.2 |  ±7 |  37
+ 9 years           | 34.4 |  ±8 |  42
+10 years           | 37.3 |  ±9 |  45
+11 years           | 42.5 | ±11 |  52
+12 years           | 49.1 | ±11 |  60
+13 years           | 54.0 | ±12 |  66
+14 years           | 64.1 | ±10 |  78
+15 years           | 66.9 | ±15 |  81
+16 years           | 68.8 | ±10 |  84
+17 years           | 72.9 | ±12 |  89
+18 years           | 71.3 | ±14 |  87
+19 years           | 73.0 | ±12 |  89
+20–29 years        | 78.3 | ±21 |  95
+30–39 years        | 83.0 | ±21 | 101
+40–49 years        | 85.1 | ±24 | 104
+50–59 years        | 86.0 | ±23 | 105
+60–69 years        | 83.1 | ±22 | 101
+70–79 years        | 79.0 | ±21 |  96
+80 years and older | 71.8 | ±20 |  87
+-------------------------------------------------
+20 years and older | 82.1 | ±22  | 100
+
+
+
+
+https://www.cdc.gov/nchs/data/series/sr_11/sr11_249.pdf
+https://www.cdc.gov/nchs/data/series/sr_11/sr11_246.pdf

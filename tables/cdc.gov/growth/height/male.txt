@@ -1,0 +1,36 @@
+at birth | 50.0 | 5 | 28
+3–5 months | 64.4 | 4 | 37
+6–8 months | 70.0 | 4 | 40
+9–11 months | 73.8 | 4 | 42
+1 year | 82.2 | 8 | 47
+2 years | 90.9 | 6 | 52
+3 years | 98.8 | 7 | 56
+4 years | 105.2 | 7 | 60
+5 years | 112.3 | 8 | 64
+6 years | 118.9 | 8 | 68
+7 years | 125.9 | 8 | 72
+8 years | 131.3 | 8 | 75
+9 years | 137.7 | 8 | 78
+10 years | 142.0 | 8 | 81
+11 years | 147.4 | 9 | 84
+12 years | 155.5 | 8 | 89
+13 years | 161.6 | 9 | 92
+14 years | 169.0 | 6 | 96
+15 years | 172.8 | 8 | 98
+16 years | 175.0 | 8 | 100
+17 years | 176.5 | 8 | 101
+18 years | 177.3 | 9 | 101
+19 years | 175.5 | 5 | 100
+20–29 years | 176.1 | 12 | 100
+30–39 years | 176.7 | 12 | 101
+40–49 years | 176.3 | 12 | 100
+50–59 years | 175.7 | 11 | 100
+60–69 years | 174.1 | 11 | 99
+70–79 years | 171.9 | 11 | 98
+80 years and older | 169.4 | 11 | 96
+---------------------------
+20 years and older | 175.6 | 12 | 100
+
+
+https://www.cdc.gov/nchs/data/series/sr_11/sr11_249.pdf
+https://www.cdc.gov/nchs/data/series/sr_11/sr11_246.pdf

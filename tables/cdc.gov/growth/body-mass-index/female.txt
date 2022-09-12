@@ -1,0 +1,29 @@
+2 years | 16.4 | 2 | 62
+3 years | 15.9 | 2 | 60
+4 years | 16.0 | 2 | 60
+5 years | 15.9 | 2 | 60
+6 years | 16.1 | 2 | 61
+7 years | 16.9 | 3 | 64
+8 years | 17.3 | 3 | 65
+9 years | 18.2 | 4 | 69
+10 years | 18.4 | 3 | 69
+11 years | 19.4 | 4 | 73
+12 years | 20.2 | 4 | 76
+13 years | 21.8 | 5 | 82
+14 years | 22.4 | 4 | 85
+15 years | 21.9 | 4 | 83
+16 years | 23.0 | 3 | 87
+17 years | 23.3 | 4 | 88
+18 years | 22.9 | 2 | 86
+19 years | 23.7 | 2 | 89
+20–29 years | 24.3 | 6 | 92
+30–39 years | 26.3 | 8 | 99
+40–49 years | 27.0 | 8 | 102
+50–59 years | 28.4 | 9 | 107
+60–69 years | 27.6 | 8 | 104
+70–79 years | 26.9 | 7 | 102
+80 years and older | 25.2 | 8 | 95
+-------------
+20 years and older | 26.5 | 8 | 100
+
+https://www.cdc.gov/nchs/data/series/sr_11/sr11_249.pdf

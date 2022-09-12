@@ -1,0 +1,40 @@
+Age                | Mean | Gap | % completion
+-----------------------------------------------
+at birth           |  3.4 |  ±1 | 5
+3–5 months         |  6.8 |  ±1 | 10
+6–8 months         |  8.2 |  ±1 | 12
+9–11 months        |  9.0 |  ±1 | 13
+1 year             | 10.9 |  ±2 | 16
+2 years            | 13.2 |  ±2 | 19
+3 years            | 15.4 |  ±3 | 22
+4 years            | 17.9 |  ±3 | 26
+5 years            | 20.2 |  ±4 | 29
+6 years            | 22.6 |  ±4 | 33
+7 years            | 26.4 |  ±6 | 38
+8 years            | 29.9 |  ±6 | 43
+9 years            | 34.4 | ±10 | 50
+10 years           | 37.9 |  ±9 | 55
+11 years           | 44.2 | ±11 | 64
+12 years           | 49.0 | ±11 | 71
+13 years           | 55.8 | ±13 | 81
+14 years           | 58.5 | ±11 | 85
+15 years           | 58.1 | ±10 | 84
+16 years           | 61.3 | ±10 | 89
+17 years           | 62.4 | ±11 | 90
+18 years           | 61.2 |  ±7 | 88
+19 years           | 63.2 |  ±3 | 91
+20–29 years        | 64.5 | ±18 | 93
+30–39 years        | 70.1 | ±22 | 101
+40–49 years        | 71.6 | ±22 | 103
+50–59 years        | 74.4 | ±23 | 108
+60–69 years        | 70.9 | ±21 | 102
+70–79 years        | 67.4 | ±22 | 97
+80 years and older | 60.5 | ±19 | 87
+---------------------------------------
+20 years and older | 69.2 | ±21 | 100
+
+
+
+
+https://www.cdc.gov/nchs/data/series/sr_11/sr11_249.pdf
+https://www.cdc.gov/nchs/data/series/sr_11/sr11_246.pdf
