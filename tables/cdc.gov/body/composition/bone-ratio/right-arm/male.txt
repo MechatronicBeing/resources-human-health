@@ -1,0 +1,9 @@
+% RIGHT ARM OS | Moy | Min | Max
+Age 20 years and older, crude | 5.4 | 5.3 | 3.8
+8–11 years | 4.5 | 7.7 | 2.8
+12–15 years | 5.4 | 4.5 | 3.4
+16–19 years | 4.1 | 2.9 | 2.8
+20–39 years | 5.4 | 4.9 | 3.7
+40–59 years | 3.4 | 4.5 | 3.8
+60–79 years | 3.7 | 5.0 | 2.7
+80 years and older | 4.4 | 5.7 | 3.3

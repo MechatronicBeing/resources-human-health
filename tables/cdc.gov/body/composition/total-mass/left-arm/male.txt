@@ -1,0 +1,9 @@
+Left arm total mass in kilograms | Moy | Min | Max
+Age 20 years and older, crude | 5.3 | 3.6 | 7.5
+8–11 years | 2.1 | 1.2 | 3.6
+12–15 years | 3.5 | 1.9 | 5.6
+16–19 years | 4.6 | 3.2 | 6.8
+20–39 years | 5.3 | 3.6 | 7.6
+40–59 years | 5.5 | 3.8 | 7.6
+60–79 years | 5.2 | 3.5 | 7.1
+80 years and older | 4.3 | 3.0 | 5.8

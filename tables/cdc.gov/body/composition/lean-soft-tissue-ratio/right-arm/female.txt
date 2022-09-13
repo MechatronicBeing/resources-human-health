@@ -1,0 +1,9 @@
+% RIGHT ARM lean soft tissue | Moy | Min | Max
+Age 20 years and older, crude | 52.4 | 57.7 | 46.3
+8–11 years | 59.1 | 66.7 | 54.1
+12–15 years | 59.4 | 61.9 | 51.0
+16–19 years | 55.6 | 62.5 | 49.1
+20–39 years | 53.7 | 61.5 | 46.3
+40–59 years | 50.0 | 55.6 | 43.1
+60–79 years | 47.6 | 53.6 | 45.3
+80 years and older | 51.4 | 56.5 | 46.2

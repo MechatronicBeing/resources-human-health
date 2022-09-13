@@ -1,0 +1,9 @@
+Total percentage body fat | Moy | Min | Max
+Age 20 years and older, crude | 28.0 | 17.4 | 38.0
+8–11 years | 28.0 | 18.2 | 42.9
+12–15 years | 25.2 | 15.1 | 40.6
+16–19 years | 22.9 | 14.0 | 37.3
+20–39 years | 26.1 | 15.5 | 37.2
+40–59 years | 28.6 | 19.3 | 37.7
+60–79 years | 30.8 | 22.0 | 39.6
+80 years and older | 30.7 | 21.9 | 38.8

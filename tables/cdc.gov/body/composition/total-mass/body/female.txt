@@ -1,0 +1,9 @@
+Total body mass in kilograms | Moy | Min | Max
+Age 20 years and older, crude | 74.8 | 50.7 | 112.0
+8–11 years | 40.2 | 23.5 | 64.8
+12–15 years | 58.2 | 39.0 | 88.5
+16–19 years | 65.4 | 45.8 | 99.1
+20–39 years | 73.4 | 50.1 | 113.4
+40–59 years | 77.6 | 52.1 | 116.1
+60–79 years | 74.4 | 52.0 | 106.8
+80 years and older | 64.3 | 45.4 | 89.2

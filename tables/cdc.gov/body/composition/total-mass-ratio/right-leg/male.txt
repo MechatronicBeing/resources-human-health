@@ -1,0 +1,9 @@
+RIGHT LEG / TOTAL (%) | Moy | Min | Max 
+Age 20 years and older, crude | 16.1 | 15.9 | 16.2
+8–11 years | 17.9 | 16.8 | 18.1
+12–15 years | 18.6 | 18.0 | 18.4
+16–19 years | 17.8 | 17.0 | 18.1
+20–39 years | 16.7 | 16.2 | 16.9
+40–59 years | 15.9 | 15.7 | 16.0
+60–79 years | 15.4 | 15.3 | 15.4
+80 years and older | 15.5 | 15.2 | 15.7

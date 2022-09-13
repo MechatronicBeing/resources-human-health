@@ -1,0 +1,9 @@
+HEAD / TOTAL (%) | Moy | Min | Max
+Age 20 years and older, crude | 5.7 | 7.1 | 4.6
+8–11 years | 9.2 | 13.2 | 6.8
+12–15 years | 7.0 | 9.2 | 5.5
+16–19 years | 6.7 | 7.9 | 5.0
+20–39 years | 6.0 | 7.4 | 4.7
+40–59 years | 5.7 | 7.1 | 4.5
+60–79 years | 5.6 | 6.9 | 4.8
+80 years and older | 6.2 | 7.5 | 5.3

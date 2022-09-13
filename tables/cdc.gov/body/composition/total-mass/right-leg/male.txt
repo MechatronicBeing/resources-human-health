@@ -1,0 +1,9 @@
+Right leg total mass in kilograms | Moy | Min | Max
+Age 20 years and older, crude | 14.1 | 9.8 | 19.8
+8–11 years | 6.9 | 4.1 | 11.4
+12–15 years | 11.3 | 6.4 | 17.9
+16–19 years | 13.7 | 9.3 | 20.4
+20–39 years | 14.4 | 9.7 | 21.0
+40–59 years | 14.3 | 10.2 | 19.6
+60–79 years | 13.4 | 9.5 | 18.2
+80 years and older | 11.8 | 8.6 | 15.9

@@ -1,0 +1,9 @@
+Left leg total mass in kilograms | Moy | Min | Max
+Age 20 years and older, crude | 13.9 | 9.5 | 19.5
+8–11 years | 6.8 | 4.0 | 11.4
+12–15 years | 11.1 | 6.4 | 17.4
+16–19 years | 13.4 | 9.2 | 20.3
+20–39 years | 14.1 | 9.5 | 20.6
+40–59 years | 14.1 | 10.0 | 19.4
+60–79 years | 13.2 | 9.3 | 18.0
+80 years and older | 11.6 | 8.5 | 15.8

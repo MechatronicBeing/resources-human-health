@@ -1,0 +1,9 @@
+Trunk total mass in kilograms | Moy | Min | Max
+Age 20 years and older, crude | 36.4 | 23.6 | 55.9
+8–11 years | 17.3 | 9.6 | 29.2
+12–15 years | 26.2 | 17.0 | 41.1
+16–19 years | 30.2 | 20.5 | 47.2
+20–39 years | 34.9 | 22.7 | 55.8
+40–59 years | 38.1 | 24.1 | 58.0
+60–79 years | 37.0 | 24.9 | 53.2
+80 years and older | 31.6 | 21.6 | 43.5

@@ -1,0 +1,9 @@
+RIGHT ARM / TOTAL (%) | Moy | Min | Max
+Age 20 years and older, crude | 5.6 | 5.1 | 6.0
+8–11 years | 5.5 | 5.1 | 5.7
+12–15 years | 5.5 | 5.4 | 5.8
+16–19 years | 5.5 | 5.2 | 5.8
+20–39 years | 5.6 | 5.2 | 5.9
+40–59 years | 5.7 | 5.2 | 6.2
+60–79 years | 5.6 | 5.4 | 6.0
+80 years and older | 5.4 | 5.1 | 5.8

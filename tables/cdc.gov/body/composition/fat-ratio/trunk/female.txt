@@ -1,0 +1,9 @@
+Trunk percentage fat | Moy | Min | Max
+Age 20 years and older, crude | 38.2 | 38.3 | 50.7
+8–11 years | 27.8 | 16.2 | 43.3
+12–15 years | 28.9 | 16.5 | 44.6
+16–19 years | 31.5 | 19.1 | 47.6
+20–39 years | 35.5 | 20.2 | 50.4
+40–59 years | 39.0 | 23.1 | 51.0
+60–79 years | 41.3 | 28.4 | 51.1
+80 years and older | 38.3 | 24.2 | 48.0

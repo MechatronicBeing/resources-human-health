@@ -1,0 +1,9 @@
+Right leg percentage fat | Moy | Min | Max
+Age 20 years and older, crude | 27.8 | 18.0 | 38.3
+8–11 years | 33.3 | 21.1 | 47.2
+12–15 years | 29.2 | 16.8 | 45.3
+16–19 years | 25.5 | 14.7 | 39.9
+20–39 years | 26.9 | 16.3 | 38.4
+40–59 years | 27.8 | 18.9 | 37.2
+60–79 years | 29.5 | 20.7 | 39.6
+80 years and older | 30.5 | 21.7 | 30.5

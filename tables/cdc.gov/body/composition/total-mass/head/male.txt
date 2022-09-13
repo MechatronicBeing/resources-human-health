@@ -1,0 +1,9 @@
+Head total mass in kilograms | Moy | Min | Max
+Age 20 years and older, crude | 5.1 | 4.3 | 6.1
+8–11 years | 3.9 | 3.2 | 4.6
+12–15 years | 4.4 | 3.6 | 5.4
+16–19 years | 4.9 | 4.1 | 5.9
+20–39 years | 5.1 | 4.3 | 6.2
+40–59 years | 5.2 | 4.3 | 6.1
+60–79 years | 5.1 | 4.2 | 6.1
+80 years and older | 4.8 | 3.9 | 5.7
