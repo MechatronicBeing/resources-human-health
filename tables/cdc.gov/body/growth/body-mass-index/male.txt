@@ -33,7 +33,6 @@ Table : Body mass index for male persons, mean, % completion, selected percentil
 | 60-69 years        | 27.3 |   103 | 20.6 |     -6.7 |  34.2 |      +6.9 |
 | 70-79 years        | 26.7 |   100 | 20.4 |     -6.3 |  34.9 |      +8.2 |
 | 80 years and older | 25.0 |    94 | 18.5 |     -6.5 |  31.7 |      +6.7 |
-| ------------------ | ---- | ----- | ---- | -------- | ----- | --------- |
 
 
 ---

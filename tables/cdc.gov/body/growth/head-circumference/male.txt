@@ -1,0 +1,21 @@
+Table : Head circumference in centimeters for male persons aged 3 months to 7 years, mean and selected percentiles (low and high values, gaps with the mean): United States, 1988–1994
+
+| Age         | Mean |  Low | Low-Mean | High | High-Mean |
+| ----------- | ---- | ---- | -------- | ---- | --------- |
+| at birth    | 35.8 | 31.5 |     -4.3 | 39.0 |      +3.2 |
+| 3-5 months  | 42.4 | 40.7 |     -1.7 | 44.2 |      +1.8 |
+| 6-8 months  | 44.8 | 42.9 |     -1.9 | 46.5 |      +1.7 |
+| 9-11 months | 46.0 | 44.3 |     -1.7 | 47.6 |      +1.6 |
+| 1 year      | 47.9 | 45.6 |     -2.3 | 50.3 |      +2.4 |
+| 2 years     | 49.5 | 47.3 |     -2.2 | 51.8 |      +2.3 |
+| 3 years     | 50.3 | 48.2 |     -2.1 | 52.3 |      +2.0 |
+| 4 years     | 50.8 | 48.6 |     -2.2 | 53.5 |      +2.7 |
+| 5 years     | 51.5 | 49.4 |     -2.1 | 53.9 |      +2.4 |
+| 6 years     | 52.0 | 50.0 |     -2.0 | 54.2 |      +2.2 |
+| 7 years     | 52.5 | 50.7 |     -1.8 | 54.0 |      +1.5 |
+
+---
+Author : CDC
+Table : 40
+Pages : 44
+Source : https://www.cdc.gov/nchs/data/series/sr_11/sr11_249.pdf

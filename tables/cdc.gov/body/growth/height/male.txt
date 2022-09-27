@@ -33,7 +33,6 @@ Table : Height in centimeters for male persons, mean, percent completion and sel
 | 60-69 years        | 174.1 |    99 | 162.1 |    -12.0 | 185.1 |     +11.0 |
 | 70-79 years        | 171.9 |    98 | 161.3 |    -10.6 | 183.5 |     +11.6 |
 | 80 years and older | 169.4 |    96 | 157.5 |    -11.9 | 180.6 |     +11.2 |
-| ------------------ | ----- | ----- | ----- | -------- | ----- | --------- |
 
 
 ---

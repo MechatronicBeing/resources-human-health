@@ -33,7 +33,6 @@ Table : Height in centimeters for female persons, mean, percent completion and s
 | 60-69 years        | 160.2 |    99 | 150.0 |    -10.2 | 171.2 |     +11.0 |
 | 70-79 years        | 158.0 |    98 | 147.2 |    -10.8 | 167.9 |      +9.9 |
 | 80 years and older | 154.9 |    96 | 143.8 |    -11.1 | 165.7 |     +10.8 |
-| ------------------ | ----- | ----- | ----- | -------- | ----- | --------- |
 
 
 ---

@@ -34,7 +34,6 @@ Table : Body mass index for female persons, mean, % completion, selected percent
 | 60-69 years        | 27.6 |   104 | 19.7 |     -7.9 |  38.6 |     +11.0 |
 | 70-79 years        | 26.9 |   102 | 19.5 |     -7.4 |  38.8       +11.9 |
 | 80 years and older | 25.2 |    95 | 17.7 |     -7.5 |  33.6 |      +8.4 |
-| ------------------ | ---- | ----- | ---- | -------- | ----- | --------- |
 
 
 ---

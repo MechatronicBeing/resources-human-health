@@ -1,4 +1,4 @@
-Table : Weight in kilograms, for male persons aged 3 months and older, mean, percent completion and selected percentiles (low and high values, and gap with the mean): United States, 1988–1994
+Table : Weight in kilograms, for male persons aged 3 months and older, mean, percent completion and selected percentiles (low and high values, gaps with the mean): United States, 1988–1994
 
 | Age                | Mean | %comp |  Low | Low-Mean |  High | High-Mean |
 | ------------------ | ---- | ----- | ---- | -------- | ----- | --------- |
@@ -33,8 +33,10 @@ Table : Weight in kilograms, for male persons aged 3 months and older, mean, per
 | 60-69 years        | 83.1 |   101 | 61.1 |    -22.0 | 107.3 |     +24.2 |
 | 70-79 years        | 79.0 |    96 | 58.5 |    -20.5 | 103.3 |     +24.3 |
 | 80 years and older | 71.8 |    87 | 52.0 |    -19.8 |  93.1 |     +21.3 |
-| ------------------ | ---- | ----- | ---- | -------- | ----- | --------- |
 
 
+---
 Author : CDC
+Tables : 4, 5
+Pages : 9, 10
 Source : https://www.cdc.gov/nchs/data/series/sr_11/sr11_249.pdf

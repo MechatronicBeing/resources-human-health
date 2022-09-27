@@ -1,4 +1,4 @@
-Table : Weight in kilograms, for female persons aged 3 months and older, mean, percent completion and selected percentiles (low and high values, and gap with the mean): United States, 1988–1994
+Table : Weight in kilograms, for female persons aged 3 months and older, mean, percent completion and selected percentiles (low and high values, gaps with the mean): United States, 1988–1994
 
 | Age                | Mean | %comp |  Low | Low-Mean |  High | High-Mean |
 | ------------------ | ---- | ----- | ---- | -------- | ----- | --------- |
@@ -33,7 +33,8 @@ Table : Weight in kilograms, for female persons aged 3 months and older, mean, p
 | 60-69 years        | 70.9 |   102 | 49.6 |    -21.3 | 100.4 |     +29.5 |
 | 70-79 years        | 67.4 |    97 | 45.7 |    -21.7 |  97.1 |     +29.7 |
 | 80 years and older | 60.5 |    87 | 41.8 |    -18.7 |  84.7 |     +24.2 |
-| ------------------ | ---- | ----- | ---- | -------- | ----- | --------- |
 
 Author : CDC
+Tables : 4, 5
+Pages : 9, 10
 Source : https://www.cdc.gov/nchs/data/series/sr_11/sr11_249.pdf
