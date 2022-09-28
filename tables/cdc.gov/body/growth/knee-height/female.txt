@@ -1,0 +1,14 @@
+Table : Knee height in centimeters for females aged 60 years and older, mean and selected percentiles (low and high values): United States, 1988–1994
+
+| Age                | Mean |  Low | High |
+| ------------------ | ---- | ---- | ---- |
+| 60 years and older | 49.5 | 45.1 | 54.1 |
+| 60-69 years        | 49.7 | 45.0 | 54.2 |
+| 70-79 years        | 49.4 | 45.4 | 53.9 |
+| 80 years and older | 49.2 | 44.8 | 53.9 |
+
+---
+Author : CDC
+Tables : 27
+Pages : 31
+Source : https://www.cdc.gov/nchs/data/series/sr_11/sr11_249.pdf

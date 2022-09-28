@@ -1,0 +1,14 @@
+Table : Knee height in centimeters for males aged 60 years and older, mean and selected percentiles (low and high values): United States, 1988–1994
+
+| Age                | Mean |  Low | High |
+| ------------------ | ---- | ---- | ---- |
+| 60 years and older | 54.1 | 49.4 | 58.8 |
+| 60-69 years        | 54.4 | 49.7 | 58.9 |
+| 70-79 years        | 53.8 | 49.2 | 58.8 |
+| 80 years and older | 53.5 | 49.2 | 58.3 |
+
+---
+Author : CDC
+Tables : 26
+Pages : 30
+Source : https://www.cdc.gov/nchs/data/series/sr_11/sr11_249.pdf
