@@ -1,4 +1,4 @@
-Table : Elbow breadth in centimeters for male persons, mean, percent completion and selected percentiles (low and high values, gaps with the mean): United States, 1988–1994
+Table : Elbow breadth in centimeters for female persons, mean, percent completion and selected percentiles (low and high values, gaps with the mean): United States, 1988–1994
 
 | Age                | Mean | %comp | Low | Low-Mean | High | High-Mean |
 | ------------------ | ---- | ----- | --- | -------- | ---- | --------- |
