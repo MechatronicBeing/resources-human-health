@@ -8,7 +8,9 @@ Table : Knee height in centimeters for males aged 60 years and older, mean and s
 | 80 years and older | 53.5 | 49.2 | 58.3 |
 
 ---
-Author : CDC
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Anthropometric Reference Data for Children and Adults: United States, 1988-1994"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
 Tables : 26
 Pages : 30
 Source : https://www.cdc.gov/nchs/data/series/sr_11/sr11_249.pdf

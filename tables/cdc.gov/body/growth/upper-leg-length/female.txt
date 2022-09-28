@@ -30,7 +30,9 @@ Table : Upper leg length in centimeters for female persons, mean, percent comple
 | 80 years and older | 36.9 |    96 | 31.5 |     -5.4 | 42.5 |      +5.6 |
 
 ---
-Author : CDC
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Anthropometric Reference Data for Children and Adults: United States, 1988-1994"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
 Tables : 23, 24, 25
 Pages : 27, 28, 29
 Source : https://www.cdc.gov/nchs/data/series/sr_11/sr11_249.pdf

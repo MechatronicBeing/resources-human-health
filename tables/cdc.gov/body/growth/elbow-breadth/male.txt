@@ -30,7 +30,9 @@ Table : Elbow breadth in centimeters for male persons, mean, percent completion 
 | 80 years and older |  7.5 |   101 | 6.7 |     -0.8 |  8.2 |      +0.7 |
 
 ---
-Author : CDC
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Anthropometric Reference Data for Children and Adults: United States, 1988-1994"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
 Tables : 62, 63, 64
 Pages : 66, 67, 68
 Source : https://www.cdc.gov/nchs/data/series/sr_11/sr11_249.pdf

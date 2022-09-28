@@ -30,7 +30,9 @@ Table : Buttocks circumference in centimeters for male persons, mean, % completi
 | 80 years and older |  97.5 |    98 | 86.5 |    -11.0 | 111.5 |     +14.0 |
 
 ---
-Author : CDC
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Anthropometric Reference Data for Children and Adults: United States, 1988-1994"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
 Tables : 59, 60, 61
 Pages : 63, 64, 65
 Source : https://www.cdc.gov/nchs/data/series/sr_11/sr11_249.pdf

@@ -30,7 +30,9 @@ Table : Buttocks circumference in centimeters for female persons, mean, % comple
 | 80 years and older |  99.4 |    97 | 85.2 |    -14.2 | 118.3 |     +18.9 |
 
 ---
-Author : CDC
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Anthropometric Reference Data for Children and Adults: United States, 1988-1994"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
 Tables : 59, 60, 61
 Pages : 63, 64, 65
 Source : https://www.cdc.gov/nchs/data/series/sr_11/sr11_249.pdf

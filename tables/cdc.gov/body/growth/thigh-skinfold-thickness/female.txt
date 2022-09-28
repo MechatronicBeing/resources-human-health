@@ -30,7 +30,9 @@ Table : Thigh skinfold thickness in millimeters for female persons, mean, percen
 | 80 years and older | 27.4 |    94 | 12.6 |    -14.8 | 40.2 |     +12.8 |
 
 ---
-Author : CDC
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Anthropometric Reference Data for Children and Adults: United States, 1988-1994"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
 Tables : 37, 38, 39
 Pages : 41, 42, 43
 Source : https://www.cdc.gov/nchs/data/series/sr_11/sr11_249.pdf

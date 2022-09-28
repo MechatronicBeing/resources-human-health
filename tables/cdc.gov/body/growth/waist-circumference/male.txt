@@ -30,7 +30,9 @@ Table : Waist circumference in centimeters for male persons, mean, % completion,
 | 80 years and older |  97.6 |   103 | 79.2 |    -18.4 | 115.0 |     +17.4 |
 
 ---
-Author : CDC
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Anthropometric Reference Data for Children and Adults: United States, 1988-1994"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
 Tables : 47, 48, 49
 Pages : 51, 52, 53
 Source : https://www.cdc.gov/nchs/data/series/sr_11/sr11_249.pdf

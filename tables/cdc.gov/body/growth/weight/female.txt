@@ -34,7 +34,10 @@ Table : Weight in kilograms, for female persons aged 3 months and older, mean, p
 | 70-79 years        | 67.4 |    97 | 45.7 |    -21.7 |  97.1 |     +29.7 |
 | 80 years and older | 60.5 |    87 | 41.8 |    -18.7 |  84.7 |     +24.2 |
 
-Author : CDC
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Anthropometric Reference Data for Children and Adults: United States, 1988-1994"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
 Tables : 4, 5
 Pages : 9, 10
 Source : https://www.cdc.gov/nchs/data/series/sr_11/sr11_249.pdf

@@ -30,7 +30,9 @@ Table : Subscapular skinfold thickness in millimeters for female persons, mean, 
 | 80 years and older | 15.7 |    78 |  5.3 |    -10.4 | 29.4 |     +13.7 |
 
 ---
-Author : CDC
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Anthropometric Reference Data for Children and Adults: United States, 1988-1994"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
 Tables : 34, 35, 36
 Pages : 38, 39, 40
 Source : https://www.cdc.gov/nchs/data/series/sr_11/sr11_249.pdf

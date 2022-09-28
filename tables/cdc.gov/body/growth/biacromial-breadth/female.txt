@@ -29,7 +29,9 @@ Table : Biacromial breadth in centimeters for female persons, mean, percent comp
 | 80 years and older | 34.8 |    95 | 31.5 |     -3.3 | 37.9 |      +3.1 |
 
 ---
-Author : CDC
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Anthropometric Reference Data for Children and Adults: United States, 1988-1994"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
 Tables : 53, 54, 55
 Pages : 57, 58, 59
 Source : https://www.cdc.gov/nchs/data/series/sr_11/sr11_249.pdf

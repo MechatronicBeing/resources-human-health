@@ -15,7 +15,9 @@ Table : Head circumference in centimeters for female persons aged 3 months to 7 
 | 7 years     | 51.3 | 49.6 |     -1.7 | 53.0 |      +1.7 |
 
 ---
-Author : CDC
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Anthropometric Reference Data for Children and Adults: United States, 1988-1994"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
 Table : 40
 Pages : 44
 Source : https://www.cdc.gov/nchs/data/series/sr_11/sr11_249.pdf
