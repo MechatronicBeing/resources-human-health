@@ -1,0 +1,44 @@
+Table : Weight in kilograms for female persons, mean, and selected percentiles (low and high values): United States,
+2015–2018
+
+| Age                | Mean |  Low |  High | 
+| ------------------ | ---- | ---- | ----- |
+| Birth-2 months     |  5.0 |  3.8 |   6.1 |
+| 3-5 months         |  6.7 |  5.1 |   8.3 |
+| 6-8 months         |  8.0 |  6.5 |  10.3 |
+| 9-11 months        |  9.0 |  7.4 |       |
+| 1 year             | 11.0 |  8.7 |  13.6 |
+| 2 years            | 13.2 | 10.5 |  15.7 |
+| 3 years            | 15.4 |      |  19.3 |
+| 4 years            | 18.1 | 14.0 |  22.7 |
+| 5 years            | 21.0 | 15.1 |  28.5 |
+| 6 years            | 23.7 | 16.9 |  34.8 |
+| 7 years            | 27.3 | 19.7 |  41.7 |
+| 8 years            | 31.3 | 21.4 |  47.6 |
+| 9 years            | 34.9 | 23.6 |  52.5 |
+| 10 years           | 41.1 | 24.9 |  58.6 |
+| 11 years           | 48.1 | 29.7 |  72.4 |
+| 12 years           | 53.0 | 32.6 |  76.0 |
+| 13 years           | 57.0 | 36.7 |  88.3 |
+| 14 years           | 62.2 | 45.1 |  84.5 |
+| 15 years           | 62.4 | 44.2 |  95.7 |
+| 16 years           | 65.7 | 47.7 |  97.7 |
+| 17 years           | 67.9 | 46.0 |  95.4 |
+| 18 years           | 68.8 | 44.9 | 111.1 |
+| 19 years           | 71.0 | 47.9 | 110.0 |
+| 20 years and older | 77.5 | 49.8 | 119.6 |
+| 20-29 years        | 74.9 | 48.5 | 118.4 |
+| 30-39 years        | 79.3 | 50.3 | 127.6 |
+| 40-49 years        | 80.8 | 53.3 | 123.8 |
+| 50-59 years        | 78.7 | 49.2 | 121.1 |
+| 60-69 years        | 78.2 | 50.8 | 112.7 |
+| 70-79 years        | 74.7 | 50.7 | 107.3 |
+| 80 years and older | 67.9 | 46.4 |  96.8 |
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Anthropometric Reference Data for Children and Adults: United States, 2015-2018"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+Tables : 1, 3, 5
+Pages : 5, 7, 9
+File : https://www.cdc.gov/nchs/data/series/sr_03/sr03-046-508.pdf
