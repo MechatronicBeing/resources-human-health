@@ -1,9 +1,20 @@
-RIGHT arm total mass in kilograms | Moy | Min | Max
-Age 20 years and older, crude | 4.2 | 2.6 | 6.7
-8–11 years | 2.2 | 1.2 | 3.7
-12–15 years | 3.2 | 2.1 | 5.1
-16–19 years | 3.6 | 2.4 | 5.7
-20–39 years | 4.1 | 2.6 | 6.7
-40–59 years | 4.4 | 2.7 | 7.2
-60–79 years | 4.2 | 2.8 | 6.4
-80 years and older | 3.5 | 2.3 | 5.2
+Table : Mean, low and high values (based on percentiles) of total mass in kilograms, on female right arms, United States, 1999–2004.
+
+Age                | Mean | Low | High
+--------------------------------------
+8–11 years         |  2.2 | 1.2 | 3.7
+12–15 years        |  3.2 | 2.1 | 5.1
+16–19 years        |  3.6 | 2.4 | 5.7
+20 years and older |  4.2 | 2.6 | 6.7
+20–39 years        |  4.1 | 2.6 | 6.7
+40–59 years        |  4.4 | 2.7 | 7.2
+60–79 years        |  4.2 | 2.8 | 6.4
+80 years and older |  3.5 | 2.3 | 5.2
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Body Composition Data for Individuals 8 Years of Age and Older: U.S. Population, 1999–2004"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+Table : 26
+Page : 58
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_250.pdf

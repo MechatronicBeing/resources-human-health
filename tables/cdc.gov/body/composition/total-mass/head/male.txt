@@ -1,9 +1,20 @@
-Head total mass in kilograms | Moy | Min | Max
-Age 20 years and older, crude | 5.1 | 4.3 | 6.1
-8–11 years | 3.9 | 3.2 | 4.6
-12–15 years | 4.4 | 3.6 | 5.4
-16–19 years | 4.9 | 4.1 | 5.9
-20–39 years | 5.1 | 4.3 | 6.2
-40–59 years | 5.2 | 4.3 | 6.1
-60–79 years | 5.1 | 4.2 | 6.1
-80 years and older | 4.8 | 3.9 | 5.7
+Mean, low and high values (based on percentiles) of total mass in kilograms, on male heads, United States, 1999–2004.
+
+Age                | Mean | Low |  High
+---------------------------------------
+8–11 years         |  3.9 | 3.2 | 4.6
+12–15 years        |  4.4 | 3.6 | 5.4
+16–19 years        |  4.9 | 4.1 | 5.9
+20 years and older |  5.1 | 4.3 | 6.1
+20–39 years        |  5.1 | 4.3 | 6.2
+40–59 years        |  5.2 | 4.3 | 6.1
+60–79 years        |  5.1 | 4.2 | 6.1
+80 years and older |  4.8 | 3.9 | 5.7
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Body Composition Data for Individuals 8 Years of Age and Older: U.S. Population, 1999–2004"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+Table : 36
+Page : 78
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_250.pdf

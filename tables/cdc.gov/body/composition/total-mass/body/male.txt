@@ -1,11 +1,20 @@
-Total body mass in kilograms | Moy | Min | Max
-----------------------------------------------
-8–11 years | 38.6 | 24.4 | 62.9
-12–15 years | 60.8 | 35.5 | 97.5
-16–19 years | 77.1 | 54.6 | 112.4
-20–39 years | 86.1 | 59.8 | 124.6
-40–59 years | 90.2 | 65.0 | 122.8
-60–79 years | 87.2 | 62.0 | 118.1
+Table : Mean, low and high values (based on percentiles) of total mass in kilograms, on male bodies, United States, 1999–2004.
+
+Age                | Mean |  Low |  High
+----------------------------------------
+8–11 years         | 38.6 | 24.4 |  62.9
+12–15 years        | 60.8 | 35.5 |  97.5
+16–19 years        | 77.1 | 54.6 | 112.4
+20 years and older | 87.6 | 61.5 | 122.0
+20–39 years        | 86.1 | 59.8 | 124.6
+40–59 years        | 90.2 | 65.0 | 122.8
+60–79 years        | 87.2 | 62.0 | 118.1
 80 years and older | 76.2 | 56.4 | 101.1
------------------------------------------
-Age 20 years and older | 87.6 | 61.5 | 122.0
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Body Composition Data for Individuals 8 Years of Age and Older: U.S. Population, 1999–2004"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+Table : 1
+Page : 8
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_250.pdf

@@ -1,9 +1,20 @@
-Trunk total mass in kilograms | Moy | Min | Max
-Age 20 years and older, crude | 36.4 | 23.6 | 55.9
-8–11 years | 17.3 | 9.6 | 29.2
-12–15 years | 26.2 | 17.0 | 41.1
-16–19 years | 30.2 | 20.5 | 47.2
-20–39 years | 34.9 | 22.7 | 55.8
-40–59 years | 38.1 | 24.1 | 58.0
-60–79 years | 37.0 | 24.9 | 53.2
+Table : Mean, low and high values (based on percentiles) of total mass in kilograms, on female trunks, United States, 1999–2004.
+
+Age                | Mean |  Low | High
+---------------------------------------
+8–11 years         | 17.3 |  9.6 | 29.2
+12–15 years        | 26.2 | 17.0 | 41.1
+16–19 years        | 30.2 | 20.5 | 47.2
+20 years and older | 36.4 | 23.6 | 55.9
+20–39 years        | 34.9 | 22.7 | 55.8
+40–59 years        | 38.1 | 24.1 | 58.0
+60–79 years        | 37.0 | 24.9 | 53.2
 80 years and older | 31.6 | 21.6 | 43.5
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Body Composition Data for Individuals 8 Years of Age and Older: U.S. Population, 1999–2004"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+Table : 11
+Page : 28
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_250.pdf
