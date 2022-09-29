@@ -1,9 +1,20 @@
-Head FAT % | Moy | Min | Max
-Age 20 years and older, crude | 23.6 | 22.6 | 24.8
-8–11 years | 24.2 | 23.6 | 25.1
-12–15 years | 23.9 | 23.1 | 24.7
-16–19 years | 23.6 | 22.9 | 24.5
-20–39 years | 23.4 | 22.6 | 24.5
-40–59 years | 23.6 | 22.5 | 24.8
-60–79 years | 23.9 | 22.8 | 25.1
-80 years and older | 23.8 | 22.8 | 24.8
+Table : Head percentage fat for female persons 8 years of age and older: United States, 1999–2004
+
+| Age                | Mean |  Low | High |
+| ------------------ | ---- | ---- | ---- |
+| 8–11 years         | 24.2 | 23.6 | 25.1 |
+| 12–15 years        | 23.9 | 23.1 | 24.7 |
+| 16–19 years        | 23.6 | 22.9 | 24.5 |
+| 20 years and older | 23.6 | 22.6 | 24.8 |
+| 20–39 years        | 23.4 | 22.6 | 24.5 |
+| 40–59 years        | 23.6 | 22.5 | 24.8 |
+| 60–79 years        | 23.9 | 22.8 | 25.1 |
+| 80 years and older | 23.8 | 22.8 | 24.8 |
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Body Composition Data for Individuals 8 Years of Age and Older: U.S. Population, 1999–2004"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+Table : 38
+Page : 82
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_250.pdf

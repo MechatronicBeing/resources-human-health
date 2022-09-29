@@ -1,9 +1,20 @@
-Left leg percentage fat | Moy | Min | Max
-Age 20 years and older, crude | 27.4 | 17.7 | 37.8
-8–11 years | 33.3 | 21.0 | 47.3
-12–15 years | 29.2 | 16.4 | 45.4
-16–19 years | 25.2 | 14.4 | 39.6
-20–39 years | 26.5 | 15.9 | 38.1
-40–59 years | 27.4 | 18.7 | 36.6
-60–79 years | 29.2 | 20.2 | 39.2
-80 years and older | 30.2 | 21.7 | 39.2
+Table : Left leg percentage fat for male persons 8 years of age and older: United States, 1999–2004
+
+| Age                | Mean |  Low | High |
+| ------------------ | ---- | ---- | ---- |
+| 8–11 years         | 33.3 | 21.0 | 47.3 |
+| 12–15 years        | 29.2 | 16.4 | 45.4 |
+| 16–19 years        | 25.2 | 14.4 | 39.6 |
+| 20 years and older | 27.4 | 17.7 | 37.8 |
+| 20–39 years        | 26.5 | 15.9 | 38.1 |
+| 40–59 years        | 27.4 | 18.7 | 36.6 |
+| 60–79 years        | 29.2 | 20.2 | 39.2 |
+| 80 years and older | 30.2 | 21.7 | 39.2 |
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Body Composition Data for Individuals 8 Years of Age and Older: U.S. Population, 1999–2004"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+Table : 23
+Page : 52
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_250.pdf

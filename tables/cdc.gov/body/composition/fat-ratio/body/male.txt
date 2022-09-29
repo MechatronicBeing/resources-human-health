@@ -1,9 +1,20 @@
-Total percentage body fat | Moy | Min | Max
-Age 20 years and older, crude | 28.0 | 17.4 | 38.0
-8–11 years | 28.0 | 18.2 | 42.9
-12–15 years | 25.2 | 15.1 | 40.6
-16–19 years | 22.9 | 14.0 | 37.3
-20–39 years | 26.1 | 15.5 | 37.2
-40–59 years | 28.6 | 19.3 | 37.7
-60–79 years | 30.8 | 22.0 | 39.6
-80 years and older | 30.7 | 21.9 | 38.8
+Table : Total percentage body fat for male persons 8 years of age and older : United States, 1999–2004
+
+| Age                | Mean |  Low | High |
+| ------------------ | ---- | ---- | ---- |
+| 8–11 years         | 28.0 | 18.2 | 42.9 |
+| 12–15 years        | 25.2 | 15.1 | 40.6 |
+| 16–19 years        | 22.9 | 14.0 | 37.3 |
+| 20 years and older | 28.0 | 17.4 | 38.0 |
+| 20–39 years        | 26.1 | 15.5 | 37.2 |
+| 40–59 years        | 28.6 | 19.3 | 37.7 |
+| 60–79 years        | 30.8 | 22.0 | 39.6 |
+| 80 years and older | 30.7 | 21.9 | 38.8 |
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Body Composition Data for Individuals 8 Years of Age and Older: U.S. Population, 1999–2004"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+Table : 3
+Page : 12
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_250.pdf
