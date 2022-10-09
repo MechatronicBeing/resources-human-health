@@ -1,4 +1,4 @@
-Table : Body mass index for female persons, mean, percent completion (compared to the 20 years and older mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1988-1994
+Table : Body mass index for female persons, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1988-1994
 
 | Age                | Mean | %comp |  Low | High | Low/Mean | High/Mean |
 | ------------------ | ---- | ----- | ---- | ---- | -------- | --------- |
