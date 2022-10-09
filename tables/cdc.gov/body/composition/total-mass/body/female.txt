@@ -1,15 +1,15 @@
-Table : Mean, low and high values (based on percentiles) of total mass in kilograms, on female bodies, United States, 1999–2004.
+Table : Total mass in kilograms, on female bodies, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999–2004.
 
-Age                | Mean |  Low |  High
-----------------------------------------
-8–11 years         | 40.2 | 23.5 |  64.8
-12–15 years        | 58.2 | 39.0 |  88.5
-16–19 years        | 65.4 | 45.8 |  99.1
-20 years and older | 74.8 | 50.7 | 112.0
-20–39 years        | 73.4 | 50.1 | 113.4
-40–59 years        | 77.6 | 52.1 | 116.1
-60–79 years        | 74.4 | 52.0 | 106.8
-80 years and older | 64.3 | 45.4 |  89.2
+| Age                | Mean | %comp |  Low |  High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | ---- | ----- | -------- | --------- |
+| 8–11 years         | 40.2 |    54 | 23.5 |  64.8 |       58 |       161 |
+| 12–15 years        | 58.2 |    78 | 39.0 |  88.5 |       67 |       152 |
+| 16–19 years        | 65.4 |    87 | 45.8 |  99.1 |       70 |       152 |
+| 20 years and older | 74.8 |   100 | 50.7 | 112.0 |       68 |       150 |
+| 20–39 years        | 73.4 |    98 | 50.1 | 113.4 |       68 |       154 |
+| 40–59 years        | 77.6 |   104 | 52.1 | 116.1 |       67 |       150 |
+| 60–79 years        | 74.4 |    99 | 52.0 | 106.8 |       70 |       144 |
+| 80 years and older | 64.3 |    86 | 45.4 |  89.2 |       71 |       139 |
 
 ---
 Author : Centers for Disease Control and Prevention - National Center for Health Statistics

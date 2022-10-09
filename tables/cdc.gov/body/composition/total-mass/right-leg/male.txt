@@ -1,15 +1,15 @@
-Table : Mean, low and high values (based on percentiles) of total mass in kilograms, on male right legs, United States, 1999–2004.
+Table : Total mass in kilograms, on male right legs, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999–2004.
 
-Age                | Mean | Low | High
----------------------------------------
-8–11 years         |  6.9 |  4.1 | 11.4
-12–15 years        | 11.3 |  6.4 | 17.9
-16–19 years        | 13.7 |  9.3 | 20.4
-20 years and older | 14.1 |  9.8 | 19.8
-20–39 years        | 14.4 |  9.7 | 21.0
-40–59 years        | 14.3 | 10.2 | 19.6
-60–79 years        | 13.4 |  9.5 | 18.2
-80 years and older | 11.8 |  8.6 | 15.9
+| Age                | Mean | %comp |  Low | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | ---- | ---- | -------- | --------- |
+| 8–11 years         |  6.9 |    49 |  4.1 | 11.4 |       59 |       165 |
+| 12–15 years        | 11.3 |    80 |  6.4 | 17.9 |       57 |       158 |
+| 16–19 years        | 13.7 |    97 |  9.3 | 20.4 |       68 |       149 |
+| 20 years and older | 14.1 |   100 |  9.8 | 19.8 |       70 |       140 |
+| 20–39 years        | 14.4 |   102 |  9.7 | 21.0 |       67 |       146 |
+| 40–59 years        | 14.3 |   101 | 10.2 | 19.6 |       71 |       137 |
+| 60–79 years        | 13.4 |    95 |  9.5 | 18.2 |       71 |       136 |
+| 80 years and older | 11.8 |    84 |  8.6 | 15.9 |       73 |       135 |
 
 ---
 Author : Centers for Disease Control and Prevention - National Center for Health Statistics

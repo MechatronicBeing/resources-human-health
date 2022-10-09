@@ -1,15 +1,15 @@
-Table : Mean, low and high values (based on percentiles) of total mass in kilograms, on female left legs, United States, 1999–2004.
+Table : total mass in kilograms, on female left legs, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999–2004.
 
-Age                | Mean | Low | High
---------------------------------------
-8–11 years         |  7.2 | 3.9 | 12.1
-12–15 years        | 10.5 | 6.8 | 16.1
-16–19 years        | 11.7 | 7.9 | 18.2
-20 years and older | 12.6 | 8.2 | 19.5
-20–39 years        | 12.8 | 8.3 | 19.9
-40–59 years        | 13.0 | 8.4 | 20.0
-60–79 years        | 12.2 | 7.8 | 18.5
-80 years and older | 10.6 | 7.2 | 15.1
+| Age                | Mean | %comp | Low | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | --- | ---- | -------- | --------- |
+| 8–11 years         |  7.2 |    57 | 3.9 | 12.1 |       54 |       168 |
+| 12–15 years        | 10.5 |    83 | 6.8 | 16.1 |       65 |       153 |
+| 16–19 years        | 11.7 |    93 | 7.9 | 18.2 |       68 |       156 |
+| 20 years and older | 12.6 |   100 | 8.2 | 19.5 |       65 |       155 |
+| 20–39 years        | 12.8 |   102 | 8.3 | 19.9 |       65 |       155 |
+| 40–59 years        | 13.0 |   103 | 8.4 | 20.0 |       65 |       154 |
+| 60–79 years        | 12.2 |    97 | 7.8 | 18.5 |       64 |       152 |
+| 80 years and older | 10.6 |    84 | 7.2 | 15.1 |       68 |       142 |
 
 ---
 Author : Centers for Disease Control and Prevention - National Center for Health Statistics

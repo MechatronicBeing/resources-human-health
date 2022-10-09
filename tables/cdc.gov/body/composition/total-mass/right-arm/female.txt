@@ -1,15 +1,15 @@
-Table : Mean, low and high values (based on percentiles) of total mass in kilograms, on female right arms, United States, 1999–2004.
+Table : Total mass in kilograms, on female right arms, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999–2004.
 
-Age                | Mean | Low | High
---------------------------------------
-8–11 years         |  2.2 | 1.2 | 3.7
-12–15 years        |  3.2 | 2.1 | 5.1
-16–19 years        |  3.6 | 2.4 | 5.7
-20 years and older |  4.2 | 2.6 | 6.7
-20–39 years        |  4.1 | 2.6 | 6.7
-40–59 years        |  4.4 | 2.7 | 7.2
-60–79 years        |  4.2 | 2.8 | 6.4
-80 years and older |  3.5 | 2.3 | 5.2
+| Age                | Mean | %comp | Low | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | --- | ---- | -------- | --------- |
+| 8–11 years         |  2.2 |    52 | 1.2 |  3.7 |       55 |       168 |
+| 12–15 years        |  3.2 |    76 | 2.1 |  5.1 |       66 |       159 |
+| 16–19 years        |  3.6 |    86 | 2.4 |  5.7 |       67 |       158 |
+| 20 years and older |  4.2 |   100 | 2.6 |  6.7 |       62 |       160 |
+| 20–39 years        |  4.1 |    98 | 2.6 |  6.7 |       63 |       163 |
+| 40–59 years        |  4.4 |   105 | 2.7 |  7.2 |       61 |       164 |
+| 60–79 years        |  4.2 |   100 | 2.8 |  6.4 |       67 |       152 |
+| 80 years and older |  3.5 |    83 | 2.3 |  5.2 |       66 |       149 |
 
 ---
 Author : Centers for Disease Control and Prevention - National Center for Health Statistics

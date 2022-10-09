@@ -1,15 +1,15 @@
-Table : Mean, low and high values (based on percentiles) of total mass in kilograms, on male right arms, United States, 1999–2004.
+Table : Total mass in kilograms, on male right arms, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999–2004.
 
-Age                | Mean | Low | High
---------------------------------------
-8–11 years         |  2.2 | 1.3 | 3.6
-12–15 years        |  3.7 | 2.2 | 5.9
-16–19 years        |  4.9 | 3.5 | 7.1
-20 years and older |  5.6 | 3.8 | 7.8
-20–39 years        |  5.6 | 4.1 | 8.0
-40–59 years        |  5.8 | 4.4 | 7.9
-60–79 years        |  5.4 | 4.0 | 7.4
-80 years and older |  4.5 | 3.5 | 6.1
+| Age                | Mean | %comp | Low | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | --- | ---- | -------- | --------- |
+| 8–11 years         |  2.2 |    39 | 1.3 |  3.6 |       59 |       164 |
+| 12–15 years        |  3.7 |    66 | 2.0 |  5.9 |       54 |       159 |
+| 16–19 years        |  4.9 |    88 | 3.3 |  7.1 |       67 |       145 |
+| 20 years and older |  5.6 |   100 | 3.8 |  7.8 |       68 |       139 |
+| 20–39 years        |  5.6 |   100 | 3.8 |  8.0 |       68 |       143 |
+| 40–59 years        |  5.8 |   104 | 4.1 |  7.9 |       71 |       136 |
+| 60–79 years        |  5.4 |    96 | 3.7 |  7.4 |       69 |       137 |
+| 80 years and older |  4.5 |    80 | 3.2 |  6.1 |       71 |       136 |
 
 ---
 Author : Centers for Disease Control and Prevention - National Center for Health Statistics

@@ -1,15 +1,15 @@
-Mean, low and high values (based on percentiles) of total mass in kilograms, on male heads, United States, 1999–2004.
+Table : Total mass in kilograms, on male heads, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999–2004.
 
-Age                | Mean | Low |  High
----------------------------------------
-8–11 years         |  3.9 | 3.2 | 4.6
-12–15 years        |  4.4 | 3.6 | 5.4
-16–19 years        |  4.9 | 4.1 | 5.9
-20 years and older |  5.1 | 4.3 | 6.1
-20–39 years        |  5.1 | 4.3 | 6.2
-40–59 years        |  5.2 | 4.3 | 6.1
-60–79 years        |  5.1 | 4.2 | 6.1
-80 years and older |  4.8 | 3.9 | 5.7
+| Age                | Mean | %comp | Low | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | --- | ---- | -------- | --------- |
+| 8–11 years         |  3.9 |    76 | 3.2 |  4.6 |       82 |       118 |
+| 12–15 years        |  4.4 |    86 | 3.6 |  5.4 |       82 |       123 |
+| 16–19 years        |  4.9 |    96 | 4.1 |  5.9 |       84 |       120 |
+| 20 years and older |  5.1 |   100 | 4.3 |  6.1 |       84 |       120 |
+| 20–39 years        |  5.1 |   100 | 4.3 |  6.2 |       84 |       122 |
+| 40–59 years        |  5.2 |   102 | 4.3 |  6.1 |       83 |       117 |
+| 60–79 years        |  5.1 |   100 | 4.2 |  6.1 |       82 |       120 |
+| 80 years and older |  4.8 |    94 | 3.9 |  5.7 |       81 |       119 |
 
 ---
 Author : Centers for Disease Control and Prevention - National Center for Health Statistics
