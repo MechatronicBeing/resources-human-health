@@ -1,34 +1,33 @@
-Table : Body mass index values for male persons, mean, and selected percentiles (low and high values): United States,
-2015–2018
+Table : Body mass index values for male persons, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 2015–2018
 
-| Age                | Mean |  Low | High | 
-| ------------------ | ---- | ---- | ---- |
-| 2 years            | 16.9 | 14.9 | 19.6 |
-| 3 years            | 16.8 | 14.3 | 21.6 |
-| 4 years            | 16.5 | 14.4 | 19.8 |
-| 5 years            | 16.5 | 13.7 | 21.8 |
-| 6 years            | 16.8 | 14.4 | 21.5 |
-| 7 years            | 17.3 | 13.6 | 23.2 |
-| 8 years            | 18.0 | 13.9 | 25.3 |
-| 9 years            | 18.9 | 14.3 | 26.7 |
-| 10 years           | 20.1 | 14.8 | 28.5 |
-| 11 years           | 20.7 | 14.9 | 29.1 |
-| 12 years           | 20.3 | 15.1 | 30.1 |
-| 13 years           | 22.7 | 15.8 | 33.3 |
-| 14 years           | 22.5 | 16.5 | 33.7 |
-| 15 years           | 24.4 | 15.5 | 35.5 |
-| 16 years           | 23.6 | 17.5 | 34.1 |
-| 17 years           | 25.1 | 17.4 | 39.8 |
-| 18 years           | 24.7 | 17.6 | 39.5 |
-| 19 years           | 26.1 | 18.7 | 36.3 |
-| 20 years and older | 29.4 | 20.8 | 41.0 |
-| 20-29 years        | 27.6 | 18.7 | 39.5 |
-| 30-39 years        | 30.3 | 21.6 | 43.4 |
-| 40-49 years        | 30.1 | 22.1 | 41.8 |
-| 50-59 years        | 29.8 | 21.8 | 41.7 |
-| 60-69 years        | 29.9 | 22.2 | 40.3 |
-| 70-79 years        | 29.2 | 20.9 | 37.2 |
-| 80 years and older | 27.6 | 21.1 | 35.5 |
+| Age                | Mean | %comp |  Low | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | ---- | ---- | -------- | --------- |
+| 2 years            | 16.9 |    57 | 14.9 | 19.6 |       88 |       116 |
+| 3 years            | 16.8 |    57 | 14.3 | 21.6 |       85 |       129 |
+| 4 years            | 16.5 |    56 | 14.4 | 19.8 |       87 |       120 |
+| 5 years            | 16.5 |    56 | 13.7 | 21.8 |       83 |       132 |
+| 6 years            | 16.8 |    57 | 14.4 | 21.5 |       86 |       128 |
+| 7 years            | 17.3 |    59 | 13.6 | 23.2 |       79 |       134 |
+| 8 years            | 18.0 |    61 | 13.9 | 25.3 |       77 |       141 |
+| 9 years            | 18.9 |    64 | 14.3 | 26.7 |       76 |       141 |
+| 10 years           | 20.1 |    68 | 14.8 | 28.5 |       74 |       142 |
+| 11 years           | 20.7 |    70 | 14.9 | 29.1 |       72 |       141 |
+| 12 years           | 20.3 |    69 | 15.1 | 30.1 |       74 |       148 |
+| 13 years           | 22.7 |    77 | 15.8 | 33.3 |       70 |       147 |
+| 14 years           | 22.5 |    77 | 16.5 | 33.7 |       73 |       150 |
+| 15 years           | 24.4 |    83 | 15.5 | 35.5 |       64 |       145 |
+| 16 years           | 23.6 |    80 | 17.5 | 34.1 |       74 |       144 |
+| 17 years           | 25.1 |    85 | 17.4 | 39.8 |       69 |       159 |
+| 18 years           | 24.7 |    84 | 17.6 | 39.5 |       71 |       160 |
+| 19 years           | 26.1 |    89 | 18.7 | 36.3 |       72 |       139 |
+| 20 years and older | 29.4 |   100 | 20.8 | 41.0 |       71 |       139 |
+| 20-29 years        | 27.6 |    94 | 18.7 | 39.5 |       68 |       143 |
+| 30-39 years        | 30.3 |   103 | 21.6 | 43.4 |       71 |       143 |
+| 40-49 years        | 30.1 |   102 | 22.1 | 41.8 |       73 |       139 |
+| 50-59 years        | 29.8 |   101 | 21.8 | 41.7 |       73 |       140 |
+| 60-69 years        | 29.9 |   102 | 22.2 | 40.3 |       74 |       135 |
+| 70-79 years        | 29.2 |    99 | 20.9 | 37.2 |       72 |       127 |
+| 80 years and older | 27.6 |    94 | 21.1 | 35.5 |       76 |       129 |
 
 ---
 Author : Centers for Disease Control and Prevention - National Center for Health Statistics
