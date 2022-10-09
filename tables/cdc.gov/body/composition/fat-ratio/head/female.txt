@@ -1,15 +1,15 @@
-Table : Head percentage fat for female persons 8 years of age and older: United States, 1999–2004
+Table : Head percentage fat for female persons 8 years of age and older, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999-2004.
 
-| Age                | Mean |  Low | High |
-| ------------------ | ---- | ---- | ---- |
-| 8–11 years         | 24.2 | 23.6 | 25.1 |
-| 12–15 years        | 23.9 | 23.1 | 24.7 |
-| 16–19 years        | 23.6 | 22.9 | 24.5 |
-| 20 years and older | 23.6 | 22.6 | 24.8 |
-| 20–39 years        | 23.4 | 22.6 | 24.5 |
-| 40–59 years        | 23.6 | 22.5 | 24.8 |
-| 60–79 years        | 23.9 | 22.8 | 25.1 |
-| 80 years and older | 23.8 | 22.8 | 24.8 |
+| Age                | Mean | %comp |  Low | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | ---- | ---- | -------- | --------- |
+| 8–11 years         | 24.2 |   103 | 23.6 | 25.1 |       98 |       104 |
+| 12–15 years        | 23.9 |   101 | 23.1 | 24.7 |       97 |       103 |
+| 16–19 years        | 23.6 |   100 | 22.9 | 24.5 |       97 |       104 |
+| 20 years and older | 23.6 |   100 | 22.6 | 24.8 |       96 |       105 |
+| 20–39 years        | 23.4 |    99 | 22.6 | 24.5 |       97 |       105 |
+| 40–59 years        | 23.6 |   100 | 22.5 | 24.8 |       95 |       105 |
+| 60–79 years        | 23.9 |   101 | 22.8 | 25.1 |       95 |       105 |
+| 80 years and older | 23.8 |   101 | 22.8 | 24.8 |       96 |       104 |
 
 ---
 Author : Centers for Disease Control and Prevention - National Center for Health Statistics

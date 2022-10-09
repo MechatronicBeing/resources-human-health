@@ -1,15 +1,15 @@
-Table : Head percentage fat for male persons 8 years of age and older: United States, 1999–2004
+Table : Head percentage fat for male persons 8 years of age and older, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999-2004.
 
-| Age                | Mean |  Low | High |
-| ------------------ | ---- | ---- | ---- |
-| 8–11 years         | 24.1 | 23.5 | 25.0 |
-| 12–15 years        | 24.0 | 23.4 | 24.8 |
-| 16–19 years        | 23.7 | 23.1 | 24.4 |
-| 20 years and older | 23.9 | 23.0 | 24.9 |
-| 20–39 years        | 23.7 | 23.0 | 24.6 |
-| 40–59 years        | 23.9 | 23.1 | 24.9 |
-| 60–79 years        | 24.0 | 23.1 | 25.1 |
-| 80 years and older | 23.9 | 23.0 | 24.9 |
+| Age                | Mean | %comp |  Low | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | ---- | ---- | -------- | --------- |
+| 8–11 years         | 24.1 |   101 | 23.5 | 25.0 |       98 |       104 |
+| 12–15 years        | 24.0 |   100 | 23.4 | 24.8 |       98 |       103 |
+| 16–19 years        | 23.7 |    99 | 23.1 | 24.4 |       97 |       103 |
+| 20 years and older | 23.9 |   100 | 23.0 | 24.9 |       96 |       104 |
+| 20–39 years        | 23.7 |    99 | 23.0 | 24.6 |       97 |       104 |
+| 40–59 years        | 23.9 |   100 | 23.1 | 24.9 |       97 |       104 |
+| 60–79 years        | 24.0 |   100 | 23.1 | 25.1 |       96 |       105 |
+| 80 years and older | 23.9 |   100 | 23.0 | 24.9 |       96 |       104 |
 
 ---
 Author : Centers for Disease Control and Prevention - National Center for Health Statistics

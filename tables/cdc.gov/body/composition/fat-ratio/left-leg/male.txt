@@ -1,15 +1,15 @@
-Table : Left leg percentage fat for male persons 8 years of age and older: United States, 1999–2004
+Table : Left leg percentage fat for male persons 8 years of age and older, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999-2004.
 
-| Age                | Mean |  Low | High |
-| ------------------ | ---- | ---- | ---- |
-| 8–11 years         | 33.3 | 21.0 | 47.3 |
-| 12–15 years        | 29.2 | 16.4 | 45.4 |
-| 16–19 years        | 25.2 | 14.4 | 39.6 |
-| 20 years and older | 27.4 | 17.7 | 37.8 |
-| 20–39 years        | 26.5 | 15.9 | 38.1 |
-| 40–59 years        | 27.4 | 18.7 | 36.6 |
-| 60–79 years        | 29.2 | 20.2 | 39.2 |
-| 80 years and older | 30.2 | 21.7 | 39.2 |
+| Age                | Mean | %comp |  Low | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | ---- | ---- | -------- | --------- |
+| 8–11 years         | 33.3 |   122 | 21.0 | 47.3 |       63 |       142 |
+| 12–15 years        | 29.2 |   107 | 16.4 | 45.4 |       56 |       155 |
+| 16–19 years        | 25.2 |    92 | 14.4 | 39.6 |       57 |       157 |
+| 20 years and older | 27.4 |   100 | 17.7 | 37.8 |       65 |       138 |
+| 20–39 years        | 26.5 |    97 | 15.9 | 38.1 |       60 |       144 |
+| 40–59 years        | 27.4 |   100 | 18.7 | 36.6 |       68 |       134 |
+| 60–79 years        | 29.2 |   107 | 20.2 | 39.2 |       69 |       134 |
+| 80 years and older | 30.2 |   110 | 21.7 | 39.2 |       72 |       130 |
 
 ---
 Author : Centers for Disease Control and Prevention - National Center for Health Statistics

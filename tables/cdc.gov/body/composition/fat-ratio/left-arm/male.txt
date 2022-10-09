@@ -1,15 +1,15 @@
-Table : Left arm percentage fat for male persons 8 years of age and older: United States, 1999–2004
+Table : Left arm percentage fat for male persons 8 years of age and older, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999-2004.
 
-| Age                | Mean |  Low | High |
-| ------------------ | ---- | ---- | ---- |
-| 8–11 years         | 30.2 | 16.9 | 48.9 |
-| 12–15 years        | 25.3 | 13.6 | 45.2 |
-| 16–19 years        | 21.3 | 12.5 | 37.2 |
-| 20 years and older | 25.6 | 15.1 | 37.2 |
-| 20–39 years        | 23.4 | 13.5 | 35.1 |
-| 40–59 years        | 26.0 | 17.0 | 36.1 |
-| 60–79 years        | 29.2 | 20.1 | 40.1 |
-| 80 years and older | 30.5 | 21.1 | 40.3 |
+| Age                | Mean | %comp |  Low | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | ---- | ---- | -------- | --------- |
+| 8–11 years         | 30.2 |   118 | 16.9 | 48.9 |       56 |       162 |
+| 12–15 years        | 25.3 |    99 | 13.6 | 45.2 |       54 |       179 |
+| 16–19 years        | 21.3 |    83 | 12.5 | 37.2 |       59 |       175 |
+| 20 years and older | 25.6 |   100 | 15.1 | 37.2 |       59 |       145 |
+| 20–39 years        | 23.4 |    91 | 13.5 | 35.1 |       58 |       150 |
+| 40–59 years        | 26.0 |   102 | 17.0 | 36.1 |       65 |       139 |
+| 60–79 years        | 29.2 |   114 | 20.1 | 40.1 |       69 |       137 |
+| 80 years and older | 30.5 |   119 | 21.1 | 40.3 |       69 |       132 |
 
 ---
 Author : Centers for Disease Control and Prevention - National Center for Health Statistics

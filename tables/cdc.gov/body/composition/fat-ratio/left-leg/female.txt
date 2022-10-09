@@ -1,15 +1,15 @@
-Table : Left leg percentage fat for female persons 8 years of age and older: United States, 1999–2004
+Table : Left leg percentage fat for female persons 8 years of age and older, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999-2004.
 
-| Age                | Mean |  Low | High |
-| ------------------ | ---- | ---- | ---- |
-| 8–11 years         | 37.6 | 26.3 | 48.2 |
-| 12–15 years        | 37.6 | 26.3 | 48.8 |
-| 16–19 years        | 39.9 | 29.5 | 50.1 |
-| 20 years and older | 43.2 | 31.9 | 53.4 |
-| 20–39 years        | 41.8 | 30.9 | 51.9 |
-| 40–59 years        | 43.6 | 32.1 | 53.3 |
-| 60–79 years        | 44.9 | 34.0 | 54.5 |
-| 80 years and older | 44.3 | 31.9 | 54.3 |
+| Age                | Mean | %comp |  Low | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | ---- | ---- | -------- | --------- |
+| 8–11 years         | 37.6 |    87 | 26.3 | 48.2 |       70 |       128 |
+| 12–15 years        | 37.6 |    87 | 26.3 | 48.8 |       70 |       130 |
+| 16–19 years        | 39.9 |    92 | 29.5 | 50.1 |       74 |       126 |
+| 20 years and older | 43.2 |   100 | 31.9 | 53.4 |       74 |       124 |
+| 20–39 years        | 41.8 |    97 | 30.9 | 51.9 |       74 |       124 |
+| 40–59 years        | 43.6 |   101 | 32.1 | 53.3 |       74 |       122 |
+| 60–79 years        | 44.9 |   104 | 34.0 | 54.5 |       76 |       121 |
+| 80 years and older | 44.3 |   103 | 31.9 | 54.3 |       72 |       123 |
 
 ---
 Author : Centers for Disease Control and Prevention - National Center for Health Statistics

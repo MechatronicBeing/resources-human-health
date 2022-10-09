@@ -1,15 +1,15 @@
-Table : Total percentage body fat for female persons 8 years of age and older : United States, 1999–2004
+Table : Total percentage body fat for female persons 8 years of age and older, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999-2004.
 
-| Age                | Mean |  Low | High |
-| ------------------ | ---- | ---- | ---- |
-| 8–11 years         | 31.9 | 21.7 | 43.9 |
-| 12–15 years        | 32.5 | 21.7 | 44.9 |
-| 16–19 years        | 34.8 | 24.2 | 47.7 |
-| 20 years and older | 39.9 | 27.6 | 50.4 |
-| 20–39 years        | 37.8 | 25.8 | 49.8 |
-| 40–59 years        | 40.5 | 28.5 | 50.7 |
-| 60–79 years        | 42.4 | 32.3 | 50.7 |
-| 80 years and older | 40.4 | 29.8 | 48.9 |
+| Age                | Mean | %comp |  Low | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | ---- | ---- | -------- | --------- |
+| 8–11 years         | 31.9 |    80 | 21.7 | 43.9 |       68 |       138 |
+| 12–15 years        | 32.5 |    81 | 21.7 | 44.9 |       67 |       138 |
+| 16–19 years        | 34.8 |    87 | 24.2 | 47.7 |       70 |       137 |
+| 20 years and older | 39.9 |   100 | 27.6 | 50.4 |       69 |       126 |
+| 20–39 years        | 37.8 |    95 | 25.8 | 49.8 |       68 |       132 |
+| 40–59 years        | 40.5 |   102 | 28.5 | 50.7 |       70 |       125 |
+| 60–79 years        | 42.4 |   106 | 32.3 | 50.7 |       76 |       120 |
+| 80 years and older | 40.4 |   101 | 29.8 | 48.9 |       74 |       121 |
 
 ---
 Author : Centers for Disease Control and Prevention - National Center for Health Statistics

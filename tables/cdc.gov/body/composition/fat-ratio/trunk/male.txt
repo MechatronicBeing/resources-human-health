@@ -1,15 +1,15 @@
-Table : Trunk percentage fat for male persons 8 years of age and older : United States, 1999–2004
+Table : Trunk percentage fat for male persons 8 years of age and older, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999-2004.
 
-| Age                | Mean |  Low | High |
-| ------------------ | ---- | ---- | ---- |
-| 8–11 years         | 23.7 | 13.7 | 41.5 |
-| 12–15 years        | 21.8 | 12.3 | 39.9 |
-| 16–19 years        | 21.0 | 11.7 | 37.2 |
-| 20 years and older | 29.1 | 15.7 | 40.7 |
-| 20–39 years        | 26.4 | 13.8 | 39.3 |
-| 40–59 years        | 30.3 | 18.5 | 40.7 |
-| 60–79 years        | 32.7 | 21.4 | 42.5 |
-| 80 years and older | 31.7 | 20.8 | 40.6 |
+| Age                | Mean | %comp |  Low | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | ---- | ---- | -------- | --------- |
+| 8–11 years         | 23.7 |    81 | 13.7 | 41.5 |       58 |       175 |
+| 12–15 years        | 21.8 |    75 | 12.3 | 39.9 |       56 |       183 |
+| 16–19 years        | 21.0 |    72 | 11.7 | 37.2 |       56 |       177 |
+| 20 years and older | 29.1 |   100 | 15.7 | 40.7 |       54 |       140 |
+| 20–39 years        | 26.4 |    91 | 13.8 | 39.3 |       52 |       149 |
+| 40–59 years        | 30.3 |   104 | 18.5 | 40.7 |       61 |       134 |
+| 60–79 years        | 32.7 |   112 | 21.4 | 42.5 |       65 |       130 |
+| 80 years and older | 31.7 |   109 | 20.8 | 40.6 |       66 |       128 |
 
 ---
 Author : Centers for Disease Control and Prevention - National Center for Health Statistics

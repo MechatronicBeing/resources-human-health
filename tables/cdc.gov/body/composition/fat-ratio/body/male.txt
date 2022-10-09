@@ -1,15 +1,15 @@
-Table : Total percentage body fat for male persons 8 years of age and older : United States, 1999–2004
+Table : Total percentage body fat for male persons 8 years of age and older, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999–2004.
 
-| Age                | Mean |  Low | High |
-| ------------------ | ---- | ---- | ---- |
-| 8–11 years         | 28.0 | 18.2 | 42.9 |
-| 12–15 years        | 25.2 | 15.1 | 40.6 |
-| 16–19 years        | 22.9 | 14.0 | 37.3 |
-| 20 years and older | 28.0 | 17.4 | 38.0 |
-| 20–39 years        | 26.1 | 15.5 | 37.2 |
-| 40–59 years        | 28.6 | 19.3 | 37.7 |
-| 60–79 years        | 30.8 | 22.0 | 39.6 |
-| 80 years and older | 30.7 | 21.9 | 38.8 |
+| Age                | Mean | %comp |  Low | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | ---- | ---- | -------- | --------- |
+| 8–11 years         | 28.0 |   100 | 18.2 | 42.9 |       65 |       153 |
+| 12–15 years        | 25.2 |    90 | 15.1 | 40.6 |       60 |       161 |
+| 16–19 years        | 22.9 |    82 | 14.0 | 37.3 |       61 |       163 |
+| 20 years and older | 28.0 |   100 | 17.4 | 38.0 |       62 |       136 |
+| 20–39 years        | 26.1 |    93 | 15.5 | 37.2 |       59 |       143 |
+| 40–59 years        | 28.6 |   102 | 19.3 | 37.7 |       67 |       132 |
+| 60–79 years        | 30.8 |   110 | 22.0 | 39.6 |       71 |       129 |
+| 80 years and older | 30.7 |   110 | 21.9 | 38.8 |       71 |       126 |
 
 ---
 Author : Centers for Disease Control and Prevention - National Center for Health Statistics

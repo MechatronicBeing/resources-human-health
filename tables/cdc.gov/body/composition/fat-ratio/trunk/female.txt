@@ -1,15 +1,15 @@
-Table : Trunk percentage fat for female persons 8 years of age and older : United States, 1999–2004
+Table : Trunk percentage fat for female persons 8 years of age and older, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999-2004.
 
-| Age                | Mean |  Low | High |
-| ------------------ | ---- | ---- | ---- |
-| 8–11 years         | 27.8 | 16.2 | 43.3 |
-| 12–15 years        | 28.9 | 16.5 | 44.6 |
-| 16–19 years        | 31.5 | 19.1 | 47.6 |
-| 20 years and older | 38.2 | 38.3 | 50.7 |
-| 20–39 years        | 35.5 | 20.2 | 50.4 |
-| 40–59 years        | 39.0 | 23.1 | 51.0 |
-| 60–79 years        | 41.3 | 28.4 | 51.1 |
-| 80 years and older | 38.3 | 24.2 | 48.0 |
+| Age                | Mean | %comp |  Low | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | ---- | ---- | -------- | --------- |
+| 8–11 years         | 27.8 |    73 | 16.2 | 43.3 |       58 |       156 |
+| 12–15 years        | 28.9 |    76 | 16.5 | 44.6 |       57 |       154 |
+| 16–19 years        | 31.5 |    82 | 19.1 | 47.6 |       61 |       151 |
+| 20 years and older | 38.2 |   100 | 22.5 | 50.7 |       59 |       133 |
+| 20–39 years        | 35.5 |    93 | 20.2 | 50.4 |       57 |       142 |
+| 40–59 years        | 39.0 |   102 | 23.1 | 51.0 |       59 |       131 |
+| 60–79 years        | 41.3 |   108 | 28.4 | 51.1 |       69 |       124 |
+| 80 years and older | 38.3 |   100 | 24.2 | 48.0 |       63 |       125 |
 
 ---
 Author : Centers for Disease Control and Prevention - National Center for Health Statistics
