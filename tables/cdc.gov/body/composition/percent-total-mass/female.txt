@@ -1,13 +1,15 @@
-| Age                | Head | Trunk | L. arm | R. arm | L. leg | R. leg |
-| ------------------ | ---- | ----- | ------ | ------ | ------ | ------ |
-| 8–11 years         |  9.2 |  43.0 |    5.5 |    5.5 |   17.9 |   18.2 |
-| 12–15 years        |  7.0 |  45.0 |    5.3 |    5.5 |   18.0 |   18.4 |
-| 16–19 years        |  6.6 |  46.2 |    5.4 |    5.5 |   17.9 |   18.3 |
-| 20 years and older |  5.7 |  48.7 |    5.5 |    5.6 |   16.8 |   17.2 |
-| 20–39 years        |  6.0 |  47.5 |    5.3 |    5.6 |   17.4 |   17.7 |
-| 40–59 years        |  5.7 |  49.1 |    5.4 |    5.7 |   16.8 |   17.1 |
-| 60–79 years        |  5.6 |  49.7 |    5.5 |    5.6 |   16.4 |   16.7 |
-| 80 years and older |  6.2 |  49.1 |    5.3 |    5.4 |   16.5 |   16.8 |
+Table : Distribution in percent of each body part, of total mass in kilograms, of female bodies, United States, 1999–2004
+
+| Age                | Mass | Head | Trunk | L-arm | R-arm | L-leg | R-leg |
+| ------------------ | ---- | ---- | ----- | ----- | ----- | ----- | ----- |
+| 8–11 years         | 40.2 |  9.2 |  43.0 |   5.5 |   5.5 |  17.9 |  18.2 |
+| 12–15 years        | 58.2 |  7.0 |  45.0 |   5.3 |   5.5 |  18.0 |  18.4 |
+| 16–19 years        | 65.5 |  6.6 |  46.2 |   5.4 |   5.5 |  17.9 |  18.3 |
+| 20 years and older | 74.8 |  5.7 |  48.7 |   5.5 |   5.6 |  16.8 |  17.2 |
+| 20–39 years        | 73.4 |  6.0 |  47.5 |   5.3 |   5.6 |  17.4 |  17.7 |
+| 40–59 years        | 77.6 |  5.7 |  49.1 |   5.4 |   5.7 |  16.8 |  17.1 |
+| 60–79 years        | 74.4 |  5.6 |  49.7 |   5.5 |   5.6 |  16.4 |  16.7 |
+| 80 years and older | 64.3 |  6.2 |  49.1 |   5.3 |   5.4 |  16.5 |  16.8 |
 
 ---
 Author : Centers for Disease Control and Prevention - National Center for Health Statistics
