@@ -1,0 +1,18 @@
+Table : 
+
+| Age                | Mass | % Lean Soft Tissue | % Fat | % Bone |
+| ------------------ | ---- | ------------------ | ----- | ------ |
+| 8–11 years         |  6.9 |               62.3 |  33.3 |    2.9 |
+| 12–15 years        | 11.3 |               65.5 |  29.2 |    4.4 |
+| 16–19 years        | 13.7 |               69.3 |  25.5 |    4.4 |
+| 20 years and older | 14.1 |               67.4 |  27.8 |    4.3 |
+| 20–39 years        | 14.4 |               68.1 |  26.9 |    4.2 |
+| 40–59 years        | 14.3 |               67.8 |  27.8 |    4.2 |
+| 60–79 years        | 13.4 |               65.7 |  29.5 |    4.5 |
+| 80 years and older | 11.8 |               65.3 |  30.5 |    4.2 |
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Body Composition Data for Individuals 8 Years of Age and Older: U.S. Population, 1999–2004"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_250.pdf
