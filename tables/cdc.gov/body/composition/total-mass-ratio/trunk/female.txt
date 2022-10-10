@@ -1,9 +1,0 @@
-TRUNK / TOTAL (%) | Moy | Min | Max
-Age 20 years and older, crude | 48.7 | 46.5 | 49.9
-8–11 years | 43.0 | 40.9 | 45.1
-12–15 years | 45.0 | 43.6 | 46.4
-16–19 years | 46.2 | 44.8 | 47.6
-20–39 years | 47.5 | 45.3 | 49.2
-40–59 years | 49.1 | 46.3 | 50.0
-60–79 years | 49.7 | 47.9 | 49.8
-80 years and older | 49.1 | 47.6 | 48.8
