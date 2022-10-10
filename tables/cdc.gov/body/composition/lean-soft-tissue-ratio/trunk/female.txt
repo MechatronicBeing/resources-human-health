@@ -1,9 +1,0 @@
-% TRUNK lean soft tissue | Moy | Min | Max
-Age 20 years and older, crude | 58.2 | 68.2 | 50.3
-8–11 years | 68.8 | 76.0 | 61.0
-12–15 years | 67.2 | 75.9 | 56.4
-16–19 years | 64.6 | 73.2 | 53.2
-20–39 years | 60.5 | 70.5 | 49.8
-40–59 years | 57.5 | 68.9 | 50.5
-60–79 years | 56.2 | 64.7 | 50.9
-80 years and older | 59.2 | 67.6 | 55.4

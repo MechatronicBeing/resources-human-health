@@ -1,9 +1,0 @@
-% Head lean soft tissue | Moy | Min | Max
-Age 20 years and older, crude | 66.7 | 65.1 | 65.6
-8–11 years | 66.7 | 68.8 | 67.4
-12–15 years | 68.2 | 66.7 | 66.7
-16–19 years | 67.3 | 65.9 | 67.8
-20–39 years | 66.7 | 67.4 | 66.1
-40–59 years | 65.4 | 65.1 | 65.6
-60–79 years | 64.7 | 66.7 | 65.6
-80 years and older | 64.6 | 66.7 | 64.9

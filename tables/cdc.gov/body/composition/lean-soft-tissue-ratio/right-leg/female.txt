@@ -1,9 +1,0 @@
-% RIGHT LEG lean soft tissue | Moy | Min | Max
-Age 20 years and older, crude | 51.9 | 56.6 | 48.2
-8–11 years | 57.5 | 62.5 | 52.0
-12–15 years | 57.9 | 62.3 | 52.4
-16–19 years | 55.0 | 58.8 | 50.5
-20–39 years | 53.1 | 57.6 | 48.8
-40–59 years | 51.9 | 55.3 | 48.3
-60–79 years | 50.8 | 56.3 | 47.3
-80 years and older | 51.9 | 55.4 | 50.3
