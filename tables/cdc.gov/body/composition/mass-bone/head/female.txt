@@ -1,0 +1,21 @@
+Table : Head bone mineral content in kilograms, on females, mean and percent completion (based on the "20 years and older" mean) : United States, 1999-2006.
+
+| Age                | Mean | %comp |
+| ------------------ | ---- | ----- |
+| 8–11 years         | 0.29 |    59 |
+| 12–15 years        | 0.38 |    77 |
+| 16–19 years        | 0.46 |    92 |
+| 20 years and older | 0.50 |   100 |
+| 20–29 years        | 0.50 |   100 |
+| 30–39 years        | 0.53 |   106 |
+| 40–49 years        | 0.52 |   105 |
+| 50–59 years        | 0.50 |   100 |
+| 60–69 years        | 0.47 |    94 |
+| 70–79 years        | 0.43 |    87 |
+| 80 years and older | 0.41 |    82 |
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Body Composition Data for Individuals 8 Years of Age and Older: U.S. Population, 1999–2004"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_250.pdf

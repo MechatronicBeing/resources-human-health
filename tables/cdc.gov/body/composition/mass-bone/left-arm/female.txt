@@ -1,0 +1,23 @@
+Table : Left arm bone mineral content in kilograms, on females, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999-2006.
+
+| Age                | Mean | %comp |  Low | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | ---- | ---- | -------- | --------- |
+| 8–11 years         | 0.07 |    49 | 0.04 | 0.11 |       61 |       157 |
+| 12–15 years        | 0.12 |    83 | 0.08 | 0.17 |       64 |       138 |
+| 16–19 years        | 0.14 |    96 | 0.10 | 0.18 |       72 |       131 |
+| 20 years and older | 0.15 |   100 |    - |    - |        - |         - |
+| 20–29 years        | 0.15 |   102 | 0.11 | 0.19 |       75 |       129 |
+| 30–39 years        | 0.15 |   104 | 0.12 | 0.20 |       76 |       129 |
+| 40–49 years        | 0.15 |   106 | 0.12 | 0.20 |       75 |       128 |
+| 50–59 years        | 0.15 |   102 | 0.11 | 0.19 |       73 |       129 |
+| 60–69 years        | 0.14 |    96 | 0.10 | 0.19 |       71 |       133 |
+| 70–79 years        | 0.13 |    86 | 0.09 | 0.18 |       69 |       139 |
+| 80 years and older | 0.11 |    75 | 0.07 | 0.15 |       62 |       139 |
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Total Body Bone Area, Bone Mineral Content, and Bone Mineral Density for Individuals Aged 8 Years and Over: United States, 1999-2006"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+Table : 23
+Page : 52
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_253.pdf

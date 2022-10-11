@@ -1,0 +1,23 @@
+Table : Right leg bone mineral content in kilograms, on males, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999-2006.
+
+| Age                | Mean | %comp |  Low | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | ---- | ---- | -------- | --------- |
+| 8–11 years         | 0.22 |    41 | 0.14 | 0.33 |       65 |       153 |
+| 12–15 years        | 0.39 |    74 | 0.23 | 0.58 |       59 |       146 |
+| 16–19 years        | 0.53 |    99 | 0.38 | 0.70 |       71 |       132 |
+| 20 years and older | 0.54 |   100 |    - |    - |        - |         - |
+| 20–29 years        | 0.55 |   103 | 0.40 | 0.74 |       72 |       133 |
+| 30–39 years        | 0.54 |   102 | 0.40 | 0.73 |       73 |       133 |
+| 40–49 years        | 0.55 |   102 | 0.41 | 0.71 |       74 |       129 |
+| 50–59 years        | 0.53 |   100 | 0.39 | 0.69 |       72 |       130 |
+| 60–69 years        | 0.53 |    98 | 0.38 | 0.69 |       72 |       131 |
+| 70–79 years        | 0.50 |    93 | 0.35 | 0.65 |       71 |       130 |
+| 80 years and older | 0.47 |    87 | 0.33 | 0.63 |       71 |       134 |
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Total Body Bone Area, Bone Mineral Content, and Bone Mineral Density for Individuals Aged 8 Years and Over: United States, 1999-2006"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+Table : 26
+Page : 57
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_253.pdf
