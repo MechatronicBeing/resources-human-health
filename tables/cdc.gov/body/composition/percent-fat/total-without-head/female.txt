@@ -1,0 +1,20 @@
+Table : Subtotal percentage body fat (total percentage body fat excluding the head) of females, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999-2004.
+
+| Age                | Mean | %comp |  Low | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | ---- | ---- | -------- | --------- |
+| 8–11 years         | 32.7 |    80 | 21.4 | 45.5 |       65 |       139 |
+| 12–15 years        | 33.1 |    81 | 21.4 | 46.2 |       65 |       140 |
+| 16–19 years        | 35.6 |    87 | 24.3 | 48.9 |       68 |       137 |
+| 20 years and older | 40.9 |   100 | 28.0 | 51.6 |       68 |       126 |
+| 20–39 years        | 38.7 |    95 | 26.0 | 51.0 |       67 |       132 |
+| 40–59 years        | 41.5 |   101 | 29.0 | 51.8 |       70 |       125 |
+| 60–79 years        | 43.5 |   106 | 32.9 | 52.1 |       76 |       120 |
+| 80 years and older | 41.5     101 | 30.4 | 50.3 |       73 |       121 |
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Body Composition Data for Individuals 8 Years of Age and Older: U.S. Population, 1999–2004"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+Table : 8
+Page : 22
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_250.pdf

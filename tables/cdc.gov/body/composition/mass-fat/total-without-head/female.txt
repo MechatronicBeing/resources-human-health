@@ -1,0 +1,20 @@
+Table : Subtotal fat mass (total fat mass excluding the head) in kilograms, of females, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999–2004.
+
+| Age                | Mean | %comp |  Low | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | ---- | ---- | -------- | --------- |
+| 8–11 years         | 12.5 |    42 |  5.1 | 26.5 |       41 |       212 |
+| 12–15 years        | 18.7 |    63 |  8.2 | 37.2 |       44 |       199 |
+| 16–19 years        | 22.7 |    76 | 11.0 | 45.7 |       48 |       201 |
+| 20 years and older | 29.8 |   100 | 13.8 | 53.8 |       46 |       181 |
+| 20–39 years        | 27.8 |    93 | 12.6 | 53.6 |       45 |       193 |
+| 40–59 years        | 31.4 |   105 | 14.9 | 56.1 |       47 |       179 |
+| 60–79 years        | 31.1 |   104 | 16.4 | 51.0 |       53 |       164 |
+| 80 years and older | 25.5 |    86 | 13.2 | 41.1 |       52 |       161 |
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Body Composition Data for Individuals 8 Years of Age and Older: U.S. Population, 1999–2004"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+Table : 7
+Page : 20
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_250.pdf

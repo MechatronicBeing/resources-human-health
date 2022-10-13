@@ -1,0 +1,20 @@
+Table : Subtotal mass (total mass excluding the head) in kilograms, of females, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999–2004.
+
+| Age                | Mean | %comp |  Low |  High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | ---- | ----- | -------- | --------- |
+| 8–11 years         | 36.5 |    52 | 20.3 |  60.6 |       56 |       166 |
+| 12–15 years        | 54.0 |    77 | 35.4 |  83.8 |       66 |       155 |
+| 16–19 years        | 61.1 |    87 | 42.0 |  94.0 |       69 |       154 |
+| 20 years and older | 70.4 |   100 | 46.7 | 107.0 |       66 |       152 |
+| 20–39 years        | 69.0 |    98 | 46.0 | 107.9 |       67 |       156 |
+| 40–59 years        | 73.2 |   104 | 48.0 | 111.5 |       66 |       152 |
+| 60–79 years        | 70.1 |   100 | 47.9 | 102.0 |       68 |       146 |
+| 80 years and older | 60.2 |    86 | 41.9 |  84.9 |       70 |       141 |
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Body Composition Data for Individuals 8 Years of Age and Older: U.S. Population, 1999–2004"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+Table : 6
+Page : 18
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_250.pdf

@@ -1,0 +1,20 @@
+Table : Subtotal lean soft tissue (total lean soft tissue excluding the head) in kilograms, of males, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999–2004.
+
+| Age                | Mean | %comp |  Low | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | ---- | ---- | -------- | --------- |
+| 8–11 years         | 23.3 |    42 | 15.8 | 33.5 |       68 |       144 |
+| 12–15 years        | 39.7 |    71 | 23.3 | 57.7 |       59 |       145 |
+| 16–19 years        | 52.4 |    94 | 39.7 | 68.2 |       76 |       130 |
+| 20 years and older | 56.0 |   100 | 41.6 | 72.6 |       74 |       130 |
+| 20–39 years        | 56.4 |   101 | 41.9 | 74.9 |       74 |       133 |
+| 40–59 years        | 57.4 |   103 | 43.6 | 72.7 |       76 |       127 |
+| 60–79 years        | 53.7 |    96 | 40.4 | 68.5 |       75 |       128 |
+| 80 years and older | 46.8 |    84 | 36.0 | 58.6 |       77 |       125 |
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Body Composition Data for Individuals 8 Years of Age and Older: U.S. Population, 1999–2004"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+Table : 9
+Page : 24
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_250.pdf
