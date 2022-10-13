@@ -1,0 +1,20 @@
+Table : Lean soft tissue mass in kilograms, on female right legs, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999–2004.
+
+| Age                | Mean | %comp | Low | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | --- | ---- | -------- | --------- |
+| 8–11 years         |  4.2 |    63 | 2.5 |  6.4 |       60 |       152 |
+| 12–15 years        |  6.2 |    93 | 4.3 |  8.6 |       69 |       139 |
+| 16–19 years        |  6.6 |    99 | 4.7 |  9.4 |       71 |       142 |
+| 20 years and older |  6.7 |   100 | 4.7 |  9.6 |       70 |       143 |
+| 20–39 years        |  6.9 |   103 | 4.9 |  9.9 |       71 |       143 |
+| 40–59 years        |  6.9 |   103 | 4.7 |  9.8 |       68 |       142 |
+| 60–79 years        |  6.3 |    94 | 4.5 |  8.8 |       71 |       140 |
+| 80 years and older |  5.6 |    84 | 4.1 |  7.8 |       73 |       139 |
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Body Composition Data for Individuals 8 Years of Age and Older: U.S. Population, 1999–2004"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+Table : 34
+Page : 74
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_250.pdf

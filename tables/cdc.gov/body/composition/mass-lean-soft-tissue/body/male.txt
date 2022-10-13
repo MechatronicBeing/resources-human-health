@@ -1,0 +1,20 @@
+Table : Lean soft tissue mass in kilograms, on male bodies, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999–2004.
+
+| Age                | Mean | %comp |  Low | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | ---- | ---- | -------- | --------- |
+| 8–11 years         | 25.9 |    44 | 18.1 | 36.5 |       70 |       141 |
+| 12–15 years        | 42.8 |    72 | 25.9 | 61.3 |       61 |       143 |
+| 16–19 years        | 55.7 |    94 | 42.6 | 72.1 |       76 |       129 |
+| 20 years and older | 59.5 |   100 | 44.6 | 76.5 |       75 |       129 |
+| 20–39 years        | 59.9 |   101 | 44.9 | 78.7 |       75 |       131 |
+| 40–59 years        | 60.9 |   102 | 46.6 | 76.7 |       77 |       126 |
+| 60–79 years        | 57.1 |    96 | 43.3 | 72.4 |       76 |       127 |
+| 80 years and older | 50.0 |    84 | 38.7 | 62.3 |       77 |       125 |
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Body Composition Data for Individuals 8 Years of Age and Older: U.S. Population, 1999–2004"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+Table : 4
+Page : 14
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_250.pdf

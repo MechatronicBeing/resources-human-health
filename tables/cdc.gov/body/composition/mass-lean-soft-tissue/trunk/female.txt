@@ -1,0 +1,20 @@
+Table : Lean soft tissue mass in kilograms, on female trunks, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999–2004.
+
+| Age                | Mean | %comp |  Low | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | ---- | ---- | -------- | --------- |
+| 8–11 years         | 11.9 |    56 |  7.3 | 17.8 |       61 |       150 |
+| 12–15 years        | 17.6 |    83 | 12.9 | 23.2 |       73 |       132 |
+| 16–19 years        | 19.5 |    92 | 15.0 | 25.1 |       77 |       129 |
+| 20 years and older | 21.2 |   100 | 16.1 | 28.1 |       76 |       133 |
+| 20–39 years        | 21.1 |   100 | 16.0 | 27.8 |       76 |       132 |
+| 40–59 years        | 21.9 |   103 | 16.6 | 29.3 |       76 |       134 |
+| 60–79 years        | 20.8 |    98 | 16.1 | 27.1 |       77 |       130 |
+| 80 years and older | 18.7 |    88 | 14.6 | 24.1 |       78 |       129 |
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Body Composition Data for Individuals 8 Years of Age and Older: U.S. Population, 1999–2004"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+Table : 14
+Page : 34
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_250.pdf
