@@ -1,0 +1,20 @@
+Table : Fat mass in kilograms, on male trunks, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999–2004.
+
+| Age                | Mean | %comp | Low | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | --- | ---- | -------- | --------- |
+| 8–11 years         |  4.3 |    33 | 1.5 | 11.4 |       35 |       265 |
+| 12–15 years        |  6.2 |    47 | 2.2 | 16.4 |       35 |       265 |
+| 16–19 years        |  8.0 |    61 | 3.1 | 19.5 |       39 |       244 |
+| 20 years and older | 13.2 |   100 | 4.8 | 24.9 |       36 |       189 |
+| 20–39 years        | 11.5 |    87 | 4.0 | 23.6 |       35 |       205 |
+| 40–59 years        | 14.1 |   107 | 6.0 | 25.5 |       43 |       181 |
+| 60–79 years        | 15.1 |   114 | 7.0 | 25.7 |       46 |       170 |
+| 80 years and older | 12.6 |    95 | 6.0 | 20.6 |       48 |       163 |
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Body Composition Data for Individuals 8 Years of Age and Older: U.S. Population, 1999–2004"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+Table : 12
+Page : 30
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_250.pdf

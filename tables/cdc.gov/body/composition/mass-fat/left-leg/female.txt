@@ -1,0 +1,20 @@
+Table : Fat mass in kilograms, on female left legs, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999–2004.
+
+| Age                | Mean | %comp | Low | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | --- | ---- | -------- | --------- |
+| 8–11 years         |  2.8 |    50 | 1.2 |  5.4 |       43 |       193 |
+| 12–15 years        |  4.0 |    71 | 1.9 |  7.4 |       48 |       185 |
+| 16–19 years        |  4.8 |    86 | 2.5 |  8.9 |       52 |       185 |
+| 20 years and older |  5.6 |   100 | 2.8 |    - |       50 |         - |
+| 20–39 years        |  5.5 |    98 | 2.8 | 10.0 |       51 |       182 |
+| 40–59 years        |  5.8 |   104 | 2.9 | 10.1 |       50 |       174 |
+| 60–79 years        |  5.6 |   100 | 2.9 |  9.5 |       52 |       170 |
+| 80 years and older |  4.8 |    86 | 2.4 |  7.9 |       50 |       165 |
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Body Composition Data for Individuals 8 Years of Age and Older: U.S. Population, 1999–2004"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+Table : 22
+Page : 50
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_250.pdf

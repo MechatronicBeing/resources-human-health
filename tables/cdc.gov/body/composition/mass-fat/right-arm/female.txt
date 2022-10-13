@@ -1,0 +1,20 @@
+Table : Fat mass in kilograms, on female right arms, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999–2004.
+
+| Age                | Mean | %comp | Low | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | --- | ---- | -------- | --------- |
+| 8–11 years         |  0.8 |    42 | 0.3 |  1.7 |       38 |       213 |
+| 12–15 years        |  1.1 |    58 | 0.4 |  2.4 |       36 |       218 |
+| 16–19 years        |  1.4 |    74 | 0.6 |  2.8 |       43 |       200 |
+| 20 years and older |  1.9 |   100 | 0.8 |  3.6 |       42 |       189 |
+| 20–39 years        |  1.7 |    89 | 0.7 |  3.5 |       41 |       206 |
+| 40–59 years        |  2.0 |   105 | 0.8 |  3.9 |       40 |       195 |
+| 60–79 years        |  2.0 |   105 | 1.0 |  3.6 |       50 |       180 |
+| 80 years and older |  1.6 |    84 | 0.7 |  2.8 |       44 |       175 |
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Body Composition Data for Individuals 8 Years of Age and Older: U.S. Population, 1999–2004"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+Table : 27
+Page : 60
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_250.pdf
