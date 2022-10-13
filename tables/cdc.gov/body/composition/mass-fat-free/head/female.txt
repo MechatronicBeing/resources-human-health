@@ -1,0 +1,20 @@
+Table : Fat-free mass in kilograms, on female heads, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999–2004.
+
+| Age                | Mean | %comp | Low | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | --- | ---- | -------- | --------- |
+| 8–11 years         |  2.8 |    85 | 2.3 |  3.3 |       82 |       118 |
+| 12–15 years        |  3.1 |    94 | 2.6 |  3.7 |       84 |       119 |
+| 16–19 years        |  3.2 |    97 | 2.8 |  3.8 |       88 |       119 |
+| 20 years and older |  3.3 |   100 | 2.8 |  3.9 |       85 |       118 |
+| 20–39 years        |  3.3 |   100 | 2.8 |  4.0 |       85 |       121 |
+| 40–59 years        |  3.3 |   100 | 2.8 |  3.9 |       85 |       118 |
+| 60–79 years        |  3.2 |    97 | 2.7 |  3.8 |       84 |       119 |
+| 80 years and older |  3.0 |    91 | 2.5 |  3.6 |       83 |       120 |
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Body Composition Data for Individuals 8 Years of Age and Older: U.S. Population, 1999–2004"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+Table : 40
+Page : 86
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_250.pdf

@@ -1,0 +1,20 @@
+Table : Fat-free mass in kilograms, on male left legs, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999–2004.
+
+| Age                | Mean | %comp | Low | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | --- | ---- | -------- | --------- |
+| 8–11 years         |  4.4 |    44 | 2.9 |  6.7 |       66 |       152 |
+| 12–15 years        |  7.7 |    78 | 4.5 | 11.2 |       58 |       145 |
+| 16–19 years        |  9.8 |    99 | 7.3 | 13.0 |       74 |       133 |
+| 20 years and older |  9.9 |   100 | 7.2 | 13.3 |       73 |       134 |
+| 20–39 years        | 10.2 |   103 | 7.3 | 13.9 |       72 |       136 |
+| 40–59 years        | 10.1 |   102 | 7.5 | 13.2 |       74 |       131 |
+| 60–79 years        |  9.3 |    94 | 6.7 | 12.0 |       72 |       129 |
+| 80 years and older |  8.0 |    81 | 6.0 | 10.2 |       75 |       127 |
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Body Composition Data for Individuals 8 Years of Age and Older: U.S. Population, 1999–2004"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+Table : 25
+Page : 56
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_250.pdf
