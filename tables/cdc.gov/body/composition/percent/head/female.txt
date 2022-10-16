@@ -1,4 +1,4 @@
-Table : 
+Table : Head mass in kilograms and distribution of Lean Soft Tissue, Fat and Bone (in percent), of females : United States, 1999–2004.
 
 | Age                | Mass | % Lean Soft Tissue | % Fat | % Bone |
 | ------------------ | ---- | ------------------ | ----- | ------ |

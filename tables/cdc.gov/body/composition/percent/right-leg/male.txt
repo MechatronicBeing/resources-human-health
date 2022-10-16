@@ -1,4 +1,5 @@
-Table : 
+Table : Right leg mass in kilograms and distribution of Lean Soft Tissue, Fat and Bone (in percent), of males : United States, 1999–2004.
+
 
 | Age                | Mass | % Lean Soft Tissue | % Fat | % Bone |
 | ------------------ | ---- | ------------------ | ----- | ------ |
