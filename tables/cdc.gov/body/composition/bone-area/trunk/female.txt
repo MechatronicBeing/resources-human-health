@@ -1,0 +1,23 @@
+Table : Body trunk bone area (cm²), on females, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999-2006.
+
+| Age                | Mean | %comp | Low | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | --- | ---- | -------- | --------- |
+| 8–11 years         |  421 |    69 | 330 |  546 |       78 |       130 |
+| 12–15 years        |  571 |    94 | 455 |  686 |       80 |       120 |
+| 16–19 years        |  616 |   101 | 519 |  723 |       84 |       117 |
+| 20 years and older |  610 |   100 |   - |    - |        - |         - |
+| 20–29 years        |  625 |   103 | 526 |  733 |       84 |       117 |
+| 30–39 years        |  626 |   103 | 524 |  745 |       84 |       119 |
+| 40–49 years        |  624 |   102 | 524 |  740 |       84 |       119 |
+| 50–59 years        |  610 |   100 | 507 |  723 |       83 |       119 |
+| 60–69 years        |  592 |    97 | 485 |  701 |       82 |       118 |
+| 70–79 years        |  564 |    93 | 456 |  666 |       81 |       118 |
+| 80 years and older |  522 |    86 | 426 |  627 |       82 |       120 |
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Total Body Bone Area, Bone Mineral Content, and Bone Mineral Density for Individuals Aged 8 Years and Over: United States, 1999-2006"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+Table : 7
+Page : 20
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_253.pdf

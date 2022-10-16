@@ -1,0 +1,23 @@
+Table : Left leg bone area (cm²), on males, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999-2006.
+
+| Age                | Mean | %comp | Low | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | --- | ---- | -------- | --------- |
+| 8–11 years         |  248 |    60 | 195 |  330 |       79 |       133 |
+| 12–15 years        |  353 |    86 | 258 |  448 |       73 |       127 |
+| 16–19 years        |  407 |    99 | 335 |  486 |       82 |       120 |
+| 20 years and older |  412 |   100 |   - |    - |        - |         - |
+| 20–29 years        |  412 |   100 | 338 |  491 |       82 |       119 |
+| 30–39 years        |  411 |   100 | 338 |  490 |       82 |       119 |
+| 40–49 years        |  417 |   101 | 349 |  486 |       84 |       117 |
+| 50–59 years        |  413 |   100 | 344 |  485 |       83 |       118 |
+| 60–69 years        |  412 |   100 | 341 |  482 |       83 |       117 |
+| 70–79 years        |  405 |    98 | 332 |  477 |       82 |       118 |
+| 80 years and older |  393 |    95 | 320 |  459 |       81 |       117 |
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Total Body Bone Area, Bone Mineral Content, and Bone Mineral Density for Individuals Aged 8 Years and Over: United States, 1999-2006"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+Table : 28
+Page : 61
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_253.pdf

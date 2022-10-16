@@ -1,0 +1,23 @@
+Table : Pelvis bone area (cm²), on males, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999-2006.
+
+| Age                | Mean | %comp | Low | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | --- | ---- | -------- | --------- |
+| 8–11 years         |  130 |    60 |  91 |  167 |       70 |       129 |
+| 12–15 years        |  194 |    89 | 125 |  273 |       64 |       141 |
+| 16–19 years        |  248 |   114 | 188 |  311 |       76 |       126 |
+| 20 years and older |  217 |   100 |   - |    - |        - |         - |
+| 20–29 years        |  237 |   109 | 181 |  301 |       76 |       127 |
+| 30–39 years        |  222 |   102 | 168 |  285 |       76 |       128 |
+| 40–49 years        |  216 |    99 | 165 |  276 |       76 |       128 |
+| 50–59 years        |  208 |    96 | 160 |  264 |       77 |       127 |
+| 60–69 years        |  208 |    96 | 157 |  259 |       76 |       125 |
+| 70–79 years        |  204 |    94 | 156 |  253 |       76 |       124 |
+| 80 years and older |  200 |    92 | 148 |  253 |       74 |       127 |
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Total Body Bone Area, Bone Mineral Content, and Bone Mineral Density for Individuals Aged 8 Years and Over: United States, 1999-2006"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+Table : 16
+Page : 37
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_253.pdf

@@ -1,0 +1,23 @@
+Table : Left ribs bone area (cm²), on males, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999-2006.
+
+| Age                | Mean | %comp | Low | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | --- | ---- | -------- | --------- |
+| 8–11 years         |   88 |    67 |  66 |  119 |       75 |       136 |
+| 12–15 years        |  111 |    85 |  78 |  149 |       70 |       134 |
+| 16–19 years        |  131 |   100 | 101 |  168 |       77 |       128 |
+| 20 years and older |  131 |   100 |   - |    - |        - |         - |
+| 20–29 years        |  135 |   103 | 103 |  177 |       76 |       131 |
+| 30–39 years        |  134 |   102 | 103 |  173 |       77 |       129 |
+| 40–49 years        |  132 |   101 | 101 |  169 |       76 |       128 |
+| 50–59 years        |  130 |    99 |  98 |  168 |       75 |       129 |
+| 60–69 years        |  128 |    98 |  96 |  164 |       75 |       128 |
+| 70–79 years        |  124 |    95 |  91 |  161 |       74 |       130 |
+| 80 years and older |  117 |    89 |  88 |  149 |       75 |       127 |
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Total Body Bone Area, Bone Mineral Content, and Bone Mineral Density for Individuals Aged 8 Years and Over: United States, 1999-2006"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+Table : 34
+Page : 73
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_253.pdf

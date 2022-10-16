@@ -1,0 +1,23 @@
+Table : Total body bone area (cm²), on males, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999-2006.
+
+| Age                | Mean | %comp | Low  | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | ---- | ---- | -------- | --------- |
+| 8–11 years         | 1385 |    61 | 1155 | 1728 |       83 |       125 |
+| 12–15 years        | 1893 |    83 | 1432 | 2357 |       76 |       125 |
+| 16–19 years        | 2238 |    98 | 1889 | 2604 |       84 |       116 |
+| 20 years and older | 2272 |   100 |    - |    - |        - |         - |
+| 20–29 years        | 2287 |   101 | 1948 | 2648 |       85 |       116 |
+| 30–39 years        | 2283 |   100 | 1949 | 2631 |       85 |       115 |
+| 40–49 years        | 2303 |   101 | 1986 | 2617 |       86 |       114 |
+| 50–59 years        | 2278 |   100 | 1956 | 2594 |       86 |       114 |
+| 60–69 years        | 2266 |   100 | 1934 | 2585 |       85 |       114 |
+| 70–79 years        | 2213 |    97 | 1875 | 2520 |       85 |       114 |
+| 80 years and older | 2128 |    94 | 1789 | 2458 |       84 |       115 |
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Total Body Bone Area, Bone Mineral Content, and Bone Mineral Density for Individuals Aged 8 Years and Over: United States, 1999-2006"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+Table : 1
+Page : 7
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_253.pdf
