@@ -1,0 +1,23 @@
+Table : Thoracic spine bone mineral content in kilograms, on females, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999-2006.
+
+| Age                | Mean  | %comp |  Low  | High  | Low/Mean | High/Mean |
+| ------------------ | ----- | ----- | ----- | ----- | -------- | --------- |
+| 8–11 years         | 0.048 |    34 | 0.032 | 0.069 |       66 |       143 |
+| 12–15 years        | 0.084 |    59 | 0.045 | 0.131 |       54 |       156 |
+| 16–19 years        | 0.122 |    86 | 0.084 | 0.165 |       69 |       136 |
+| 20 years and older | 0.142 |   100 |     - |     - |        - |         - |
+| 20–29 years        | 0.134 |    95 | 0.097 | 0.185 |       72 |       138 |
+| 30–39 years        | 0.141 |   100 | 0.098 | 0.200 |       69 |       142 |
+| 40–49 years        | 0.148 |   104 | 0.103 | 0.207 |       69 |       140 |
+| 50–59 years        | 0.146 |   103 | 0.096 | 0.208 |       66 |       143 |
+| 60–69 years        | 0.148 |   104 | 0.093 | 0.215 |       63 |       146 |
+| 70–79 years        | 0.139 |    98 | 0.084 | 0.201 |       60 |       145 |
+| 80 years and older | 0.126 |    89 | 0.077 | 0.184 |       61 |       146 |
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Total Body Bone Area, Bone Mineral Content, and Bone Mineral Density for Individuals Aged 8 Years and Over: United States, 1999-2006"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+Table : 11
+Page : 28
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_253.pdf
