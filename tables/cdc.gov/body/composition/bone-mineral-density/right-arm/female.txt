@@ -1,0 +1,23 @@
+Table : Right arm bone mineral density (g/cm²), on females, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999-2006.
+
+| Age                | Mean | %comp | Low  | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | ---- | ---- | -------- | --------- |
+| 8–11 years         | 0.57 |    78 | 0.44 | 0.69 |       78 |       121 |
+| 12–15 years        | 0.70 |    95 | 0.60 | 0.79 |       86 |       114 |
+| 16–19 years        | 0.74 |   101 | 0.65 | 0.84 |       87 |       113 |
+| 20 years and older | 0.73 |   100 |    - |    - |        - |         - |
+| 20–29 years        | 0.75 |   103 | 0.66 | 0.84 |       88 |       112 |
+| 30–39 years        | 0.76 |   104 | 0.67 | 0.86 |       89 |       113 |
+| 40–49 years        | 0.76 |   104 | 0.67 | 0.86 |       88 |       114 |
+| 50–59 years        | 0.73 |   100 | 0.64 | 0.84 |       87 |       115 |
+| 60–69 years        | 0.70 |    95 | 0.59 | 0.80 |       85 |       116 |
+| 70–79 years        | 0.66 |    90 | 0.55 | 0.77 |       84 |       117 |
+| 80 years and older | 0.61 |    84 | 0.50 | 0.72 |       82 |       118 |
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Total Body Bone Area, Bone Mineral Content, and Bone Mineral Density for Individuals Aged 8 Years and Over: United States, 1999-2006"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+Table : 20
+Page : 46
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_253.pdf

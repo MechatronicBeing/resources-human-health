@@ -1,0 +1,23 @@
+Table : Pelvis bone mineral density (g/cm²), on females, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999-2006.
+
+| Age                | Mean | %comp | Low  | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | ---- | ---- | -------- | --------- |
+| 8–11 years         | 0.92 |    74 | 0.69 | 1.20 |       75 |       131 |
+| 12–15 years        | 1.19 |    96 | 0.93 | 1.46 |       78 |       123 |
+| 16–19 years        | 1.26 |   102 | 1.01 | 1.55 |       80 |       123 |
+| 20 years and older | 1.24 |   100 |    - |    - |        - |         - |
+| 20–29 years        | 1.28 |   104 | 1.05 | 1.56 |       82 |       121 |
+| 30–39 years        | 1.31 |   106 | 1.05 | 1.59 |       80 |       121 |
+| 40–49 years        | 1.29 |   104 | 1.05 | 1.58 |       81 |       122 |
+| 50–59 years        | 1.23 |   100 | 0.99 | 1.49 |       81 |       121 |
+| 60–69 years        | 1.16 |    94 | 0.92 | 1.44 |       79 |       124 |
+| 70–79 years        | 1.07 |    86 | 0.83 | 1.33 |       77 |       125 |
+| 80 years and older | 0.97 |    78 | 0.75 | 1.21 |       77 |       125 |
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Total Body Bone Area, Bone Mineral Content, and Bone Mineral Density for Individuals Aged 8 Years and Over: United States, 1999-2006"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+Table : 17
+Page : 40
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_253.pdf

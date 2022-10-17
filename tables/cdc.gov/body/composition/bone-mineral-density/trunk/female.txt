@@ -1,0 +1,23 @@
+Table : Body trunk bone mineral density (g/cm²), on females, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999-2006.
+
+| Age                | Mean | %comp | Low  | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | ---- | ---- | -------- | --------- |
+| 8–11 years         | 0.67 |    75 | 0.54 | 0.82 |       82 |       123 |
+| 12–15 years        | 0.85 |    96 | 0.69 | 1.03 |       81 |       120 |
+| 16–19 years        | 0.92 |   103 | 0.77 | 1.10 |       83 |       119 |
+| 20 years and older | 0.89 |   100 |    - |    - |        - |         - |
+| 20–29 years        | 0.93 |   104 | 0.78 | 1.09 |       84 |       118 |
+| 30–39 years        | 0.94 |   105 | 0.78 | 1.10 |       84 |       117 |
+| 40–49 years        | 0.93 |   104 | 0.76 | 1.11 |       83 |       120 |
+| 50–59 years        | 0.88 |    99 | 0.72 | 1.07 |       81 |       121 |
+| 60–69 years        | 0.84 |    94 | 0.67 | 1.03 |       80 |       123 |
+| 70–79 years        | 0.79 |    89 | 0.64 | 0.97 |       81 |       122 |
+| 80 years and older | 0.74 |    83 | 0.59 | 0.93 |       79 |       124 |
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Total Body Bone Area, Bone Mineral Content, and Bone Mineral Density for Individuals Aged 8 Years and Over: United States, 1999-2006"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+Table : 8
+Page : 22
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_253.pdf

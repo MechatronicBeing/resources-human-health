@@ -1,0 +1,23 @@
+Table : Lumbar spine bone mineral density (g/cm²), on females, mean, percent completion (based on the "20 years and older" mean), low and high values (from percentiles), low/mean and high/mean in percent : United States, 1999-2006.
+
+| Age                | Mean | %comp | Low  | High | Low/Mean | High/Mean |
+| ------------------ | ---- | ----- | ---- | ---- | -------- | --------- |
+| 8–11 years         | 0.73 |    70 | 0.58 | 0.93 |       80 |       128 |
+| 12–15 years        | 0.96 |    93 | 0.74 | 1.19 |       77 |       123 |
+| 16–19 years        | 1.05 |   101 | 0.86 | 1.27 |       82 |       121 |
+| 20 years and older | 1.04 |   100 |    - |    - |        - |         - |
+| 20–29 years        | 1.07 |   103 | 0.88 | 1.28 |       82 |       120 |
+| 30–39 years        | 1.08 |   104 | 0.88 | 1.30 |       81 |       120 |
+| 40–49 years        | 1.07 |   103 | 0.84 | 1.32 |       79 |       124 |
+| 50–59 years        | 1.01 |    98 | 0.78 | 1.30 |       77 |       128 |
+| 60–69 years        | 0.98 |    94 | 0.72 | 1.28 |       74 |       131 |
+| 70–79 years        | 0.95 |    92 | 0.71 | 1.26 |       74 |       132 |
+| 80 years and older | 0.92 |    89 | 0.66 | 1.23 |       72 |       133 |
+
+---
+Author : Centers for Disease Control and Prevention - National Center for Health Statistics
+Title : "Total Body Bone Area, Bone Mineral Content, and Bone Mineral Density for Individuals Aged 8 Years and Over: United States, 1999-2006"
+License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+Table : 14
+Page : 34
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_253.pdf
