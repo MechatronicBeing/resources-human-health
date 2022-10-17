@@ -18,6 +18,6 @@ Table : Pelvis bone mineral density (g/cm²), on males, mean, percent completion
 Author : Centers for Disease Control and Prevention - National Center for Health Statistics
 Title : "Total Body Bone Area, Bone Mineral Content, and Bone Mineral Density for Individuals Aged 8 Years and Over: United States, 1999-2006"
 License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
-Table : 17
-Page : 39
+Table : 18
+Page : 41
 File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_253.pdf

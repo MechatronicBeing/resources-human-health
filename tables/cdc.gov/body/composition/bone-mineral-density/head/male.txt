@@ -16,6 +16,6 @@ Table : Head bone mineral content in kilograms, on males, mean and percent compl
 
 ---
 Author : Centers for Disease Control and Prevention - National Center for Health Statistics
-Title : "Body Composition Data for Individuals 8 Years of Age and Older: U.S. Population, 1999–2004"
+Title : "Total Body Bone Area, Bone Mineral Content, and Bone Mineral Density for Individuals Aged 8 Years and Over: United States, 1999-2006"
 License : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
-File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_250.pdf
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_253.pdf
