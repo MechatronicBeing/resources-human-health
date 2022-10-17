@@ -1,0 +1,26 @@
+Authors : Centers for Disease Control and Prevention - National Center for Health Statistics
+License (in the files below) : "in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated."
+
+Period : 2015-2018
+Title : "Anthropometric Reference Data for Children and Adults: United States, 2015-2018"
+File : https://www.cdc.gov/nchs/data/series/sr_03/sr03-046-508.pdf
+----
+Period : 2011–2014
+Title : "Anthropometric Reference Data for Children and Adults: United States, 2011–2014"
+File : https://www.cdc.gov/nchs/data/series/sr_03/sr03_039.pdf
+---
+Period : 2007–2010
+Title : "Anthropometric Reference Data for Children and Adults: United States, 2007–2010"
+File : https://www.cdc.gov/nchs/data/series/sr_11/sr11_252.pdf
+---
+Period : 2003–2006
+Title : "Anthropometric Reference Data for Children and Adults: United States, 2003–2006"
+File : https://www.cdc.gov/nchs/data/nhsr/nhsr010.pdf
+---
+Period : 1999–2002
+Title : "Anthropometric Reference Data for Children and Adults: U.S. Population, 1999–2002"
+File : https://www.cdc.gov/nchs/data/ad/ad361.pdf
+---
+Period :1976-1980
+Title : "Anthropometric Reference Data and Prevalence of Overweight - United States, 1976-80"
+https://www.cdc.gov/nchs/data/series/sr_11/sr11_238.pdf
